@@ -669,6 +669,49 @@
     throw new Error('Ez da galderen dokumenturik aurkitu');
   }
 
+  /** Data euskal formatuan: 2026/11/24, 11:05 */
+  function dataFormatua(data) {
+    const bi = (n) => String(n).padStart(2, '0');
+    return data.getFullYear() + '/' + bi(data.getMonth() + 1) + '/' + bi(data.getDate()) +
+      ', ' + bi(data.getHours()) + ':' + bi(data.getMinutes());
+  }
+
+  /**
+   * Aplikazioaren azken eguneraketaren data.
+   * Zerbitzari batetik (adib. GitHub Pages) zerbitzatzen bada, fitxategien Last-Modified
+   * goiburuetatik berriena hartzen da (argitaratze-data). Fitxategia zuzenean irekita, index.html-rena.
+   */
+  async function azkenEguneraketa() {
+    if (!/^https?:$/.test(location.protocol)) {
+      const data = new Date(document.lastModified);
+      return isNaN(data) ? null : data;
+    }
+    const orria = location.href.split('#')[0].split('?')[0];
+    const helbideak = [orria].concat(
+      [DOKUMENTUA, 'js/dokumentua.js', 'js/jokoa.js', 'js/parser.js', 'js/marrazkiak.js', 'css/estiloak.css'].map(encodeURI)
+    );
+    const datak = await Promise.all(helbideak.map(async (helbidea) => {
+      try {
+        const erantzuna = await fetch(helbidea, { method: 'HEAD', cache: 'no-store' });
+        const goiburua = erantzuna.ok ? erantzuna.headers.get('Last-Modified') : null;
+        return goiburua ? new Date(goiburua) : null;
+      } catch (e) {
+        return null;
+      }
+    }));
+    const baliozkoak = datak.filter((d) => d && !isNaN(d));
+    return baliozkoak.length ? new Date(Math.max.apply(null, baliozkoak)) : null;
+  }
+
+  function erakutsiEguneraketa() {
+    azkenEguneraketa().then((data) => {
+      if (!data) return;
+      const elementua = $('oina-eguneraketa');
+      elementua.textContent = 'Azken eguneraketa: ' + dataFormatua(data);
+      elementua.hidden = false;
+    });
+  }
+
   function lotuGertaerak() {
     $('jokatu').addEventListener('click', hasiJokoa);
     $('hurrengoa').addEventListener('click', hurrengoa);
@@ -746,6 +789,7 @@
     betearauak();
     marraztuHasiera();
     erakutsiPantaila('hasiera');
+    erakutsiEguneraketa();
   }
 
   document.addEventListener('DOMContentLoaded', hasieratu);

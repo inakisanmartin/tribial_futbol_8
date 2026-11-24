@@ -511,6 +511,7 @@ details[open] .berrik-gezia { transform: rotate(180deg); }
 }
 .oina p { margin: 4px 0; }
 .oina strong { color: #fff3b0; }
+.oina-eguneraketa { margin-top: 8px !important; font-size: 0.8rem; opacity: 0.9; }
 
 /* ---------- Mugikorrak ---------- */
 
