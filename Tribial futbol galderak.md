@@ -445,11 +445,16 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 **3.12. Zer da joko arriskutsua?**
 
 - a) Oso azkar korrika egitea
-- b) Atezainari jaurtiketa gogorra egitea
-- d) Beste jokalari bati min eman diezaiokeen moduan jokatzea, adibidez hanka oso gora jasotzea norbaiten buruaren ondoan
+- b) Atezainari jaurtiketa gogorra egitea (baloikada)
+- d) Beste jokalari bati min eman diezaiokeen moduan jokatzea, ukitu gabe
 
 **Erantzuna:** d)
-**Azalpena:** Norbaiti min eman diezaiokeen mugimendu bat da, nahiz eta ez ukitu. Ukitzen ez badu, **zeharkako** jaurtiketa librea da. Ukitzen badu (ostikoa, bultzada...), falta **zuzena** da, eta txartela ere izan daiteke.
+**Azalpena:** Norbaiti min eman diezaiokeen mugimendu bat da, nahiz eta ez ukitu. Adibidez: 
+* Hanka gehiegi altxatu, beste jokalari baten burutik edo bularretik gertu.
+* Burua gehiegi jaitsi, besteen oinetatik gertu.
+Normalean, beste jokalaria gelditu behar da edo saiestu, mina ez hartzeko, eta hor dago falta.
+Zigorra: **zeharkako** jaurtiketa librea da.
+Jokalaria ukitzen badu (ostikoa, bultzada...), falta **zuzena** da, eta txartela ere izan daiteke.
 
 ---
 
@@ -485,6 +490,24 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 **Erantzuna:** b)
 **Azalpena:** Jaurtiketa libre batetik (zuzena edo zeharkakoa) baloia zuzenean norbere atean sartzen bada, ez da gola: aurkako taldeak **kornerra** jaurtitzen du.
+
+---
+
+**3.16. Nor da taldeko kapitaina, nola aukeratzen da eta zeintzuk dira bere betebeharrak?**
+
+- a) Golak gehien sartzen dituen jokalaria da; epaileak aukeratzen du, eta bera da epaileari protesta egin diezaiokeen bakarra
+- b) Entrenatzaileak partida aurretik aukeratzen duen jokalaria da; besokoa darama, txanpon-zozketan parte hartzen du eta bere taldearen ordezkaria da epailearen aurrean
+- d) Beti atezaina da, taldeko zaharrena delako; bere lana aldaketak erabakitzea eta akta sinatzea da
+
+**Erantzuna:** b)
+**Azalpena:** Kapitaina **taldearen ordezkaria** da zelaian. **Entrenatzaileak** aukeratzen du partida hasi aurretik, eta edozein jokalari izan daiteke, atezaina barne.
+Bere betebeharrak:
+- **Besokoa** eraman behar du, epaileak eta denek erraz ezagutzeko.
+- Partida hasi aurretik, epailearekin eta aurkako kapitainarekin **txanpon-zozketan** parte hartzen du.
+- Epaileari azalpenak eska diezazkioke, beti **lasai eta errespetuz**, baina ez du protesta egiteko eskubide berezirik.
+- Bere lagunak lasaitzen eta **joko garbia** sustatzen laguntzen du: lehenengo eredua izan behar du!
+
+Kapitainak ez du pribilegiorik: gaizki jokatzen badu, epaileak txartela atera diezaioke, beste edozein jokalariri bezala.
 
 ---
 
@@ -668,7 +691,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 - d) "Hegalariak" dira: nahi adina egin daitezke, epaileari jakinarazi gabe, zelai erditik
 
 **Erantzuna:** d)
-**Azalpena:** Hirugarren zatian aldaketak **hegalariak** (volantes) dira: mugarik gabe egin daitezke, eta zelaitik irten den jokalaria geroago itzul daiteke beste baten ordez. Ez zaio epaileari jakinarazi behar, baina aldaketak beti **zelai erditik** egiten dira.
+**Azalpena:** Hirugarren zatian aldaketak **hegalariak** (volantes) dira: mugarik gabe egin daitezke, jokalari bat zelaitk atera eta ondoren beste bat sartu daiteke. Zelaitik irten den jokalaria geroago itzul daiteke beste baten ordez. Ez zaio epaileari jakinarazi behar, baina aldaketak beti **zelai erditik** egin behar dira.
 
 ---
 
