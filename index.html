@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="eu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Futbol 8ko arauei buruzko tribial jokoa, euskaraz.">
+  <title>Futbol 8 Tribiala</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&display=swap">
+  <link rel="stylesheet" href="css/estiloak.css">
+</head>
+<body>
+  <div class="zerua" aria-hidden="true">
+    <span class="hodeia hodeia-1"></span>
+    <span class="hodeia hodeia-2"></span>
+    <span class="hodeia hodeia-3"></span>
+    <span class="eguzkia"></span>
+  </div>
+
+  <button id="soinua" class="soinu-botoia" type="button" aria-pressed="true" title="Soinua itzali" aria-label="Soinua itzali">🔊</button>
+
+  <main class="edukiontzia">
+
+    <!-- KARGATZEN -->
+    <section id="pantaila-kargatzen" class="pantaila">
+      <div class="txartela kargatzen">
+        <div class="kargatzen-baloia" data-marrazkia="maskota"></div>
+        <p id="kargatzen-mezua">Galderak kargatzen...</p>
+      </div>
+    </section>
+
+    <!-- HASIERA -->
+    <section id="pantaila-hasiera" class="pantaila" hidden>
+      <header class="heroia">
+        <div class="heroia-maskota" data-marrazkia="maskota"></div>
+        <div class="heroia-testua">
+          <h1 class="izenburua">Futbol 8 <span>Tribiala</span></h1>
+          <p class="bunbuiloa">Kaixo! Ni <strong>Baloitxo</strong> naiz. Futbol 8ko arauak ondo ezagutzen dituzu? Froga dezagun! ⚽</p>
+        </div>
+        <div class="heroia-atea" data-marrazkia="atea"></div>
+      </header>
+
+      <section class="txartela">
+        <h2 class="atal-izenburua"><span class="urratsa">1</span> Aukeratu kategoria</h2>
+        <div id="kategoriak" class="kategoria-sareta" role="radiogroup" aria-label="Kategoria"></div>
+      </section>
+
+      <section class="txartela">
+        <h2 class="atal-izenburua"><span class="urratsa">2</span> Aukeratu zailtasuna</h2>
+        <div id="zailtasunak" class="zailtasun-zerrenda" role="radiogroup" aria-label="Zailtasuna"></div>
+      </section>
+
+      <div class="jokatu-eremua">
+        <p id="aukeraketa-info" class="aukeraketa-info" aria-live="polite"></p>
+        <button id="jokatu" class="botoia botoia-nagusia botoia-handia" type="button">Jokatu! ⚽</button>
+        <button id="arauak-ireki" class="botoia botoia-zuria" type="button">📜 Gure txapelketaren arau bereziak</button>
+      </div>
+    </section>
+
+    <!-- JOKOA -->
+    <section id="pantaila-jokoa" class="pantaila" hidden>
+      <div class="joko-goiburua">
+        <button id="utzi" class="botoia botoia-txikia" type="button">✖ Utzi</button>
+        <div class="markagailua" aria-live="polite">
+          <span class="markagailua-etiketa">GOLAK</span>
+          <span id="markagailua" class="markagailua-zenbakia">0</span>
+        </div>
+      </div>
+
+      <div id="aurrerapena-barra" class="aurrerapena" role="progressbar" aria-label="Aurrerapena" aria-valuemin="0" aria-valuenow="0" aria-valuemax="10">
+        <div id="aurrerapena-betea" class="aurrerapena-betea"></div>
+        <span id="aurrerapena-baloia" class="aurrerapena-baloia" aria-hidden="true">⚽</span>
+        <span class="aurrerapena-atea" aria-hidden="true">🥅</span>
+      </div>
+
+      <article id="galdera-txartela" class="txartela galdera-txartela">
+        <div class="galdera-goiburua">
+          <div class="galdera-maskota" id="jokoa-maskota" aria-hidden="true"></div>
+          <div>
+            <p id="galdera-zenbakia" class="galdera-zenbakia"></p>
+            <div id="galdera-etiketak" class="etiketak"></div>
+          </div>
+        </div>
+        <h2 id="galdera-testua" class="galdera-testua"></h2>
+        <div id="aukerak" class="aukerak"></div>
+        <p class="teklatu-laguntza">Teklatuarekin ere erantzun dezakezu: <kbd>a</kbd> <kbd>b</kbd> <kbd>d</kbd></p>
+      </article>
+
+      <section id="erantzun-panela" class="txartela erantzun-panela" hidden aria-live="polite">
+        <div class="erantzun-goiburua">
+          <div id="erantzun-maskota" class="erantzun-maskota" aria-hidden="true"></div>
+          <div>
+            <h3 id="erantzun-izenburua" class="erantzun-izenburua"></h3>
+            <p id="erantzun-zuzena" class="erantzun-zuzena"></p>
+          </div>
+        </div>
+        <div class="azalpena">
+          <h4>🤔 Zergatik?</h4>
+          <div id="azalpena-testua"></div>
+        </div>
+        <button id="hurrengoa" class="botoia botoia-nagusia botoia-zabala" type="button">Hurrengo galdera ➜</button>
+      </section>
+    </section>
+
+    <!-- EMAITZAK -->
+    <section id="pantaila-emaitzak" class="pantaila" hidden>
+      <section class="txartela emaitza-txartela">
+        <div class="emaitza-marrazkiak">
+          <div id="emaitza-maskota" class="emaitza-maskota" aria-hidden="true"></div>
+          <div id="emaitza-saria" class="emaitza-saria" aria-hidden="true"></div>
+        </div>
+        <h2 id="emaitza-izenburua" class="emaitza-izenburua"></h2>
+        <p class="emaitza-zenbakiak">
+          <span id="emaitza-asmatuak" class="emaitza-asmatuak">0</span>
+          <span class="emaitza-guztira">/ <span id="emaitza-guztira">10</span></span>
+        </p>
+        <p class="emaitza-azpitestua">galdera asmatu dituzu</p>
+        <div class="emaitza-barra" aria-hidden="true"><div id="emaitza-ehunekoa" class="emaitza-barra-betea"></div></div>
+        <div id="emaitza-izarrak" class="izarrak" role="img"></div>
+        <p id="emaitza-mezua" class="emaitza-mezua"></p>
+
+        <div class="txistea">
+          <h3>😄 Txiste bat zuretzat</h3>
+          <p id="txistea-galdera" class="txistea-galdera"></p>
+          <button id="txistea-botoia" class="botoia botoia-txikia botoia-horia" type="button">Erantzuna ikusi 👀</button>
+          <p id="txistea-erantzuna" class="txistea-erantzuna" hidden></p>
+        </div>
+
+        <div class="botoi-errenkada">
+          <button id="berriro" class="botoia botoia-nagusia" type="button">🔄 Berriro jokatu</button>
+          <button id="hasierara" class="botoia botoia-urdina" type="button">🏠 Hasierara</button>
+        </div>
+      </section>
+
+      <section class="txartela">
+        <h2 class="atal-izenburua">📋 Galderak berrikusi</h2>
+        <div class="iragazkiak" role="group" aria-label="Iragazi galderak">
+          <button class="iragazkia" type="button" data-iragazkia="denak" aria-pressed="true">Denak <span id="iragazki-denak" class="iragazki-kopurua">0</span></button>
+          <button class="iragazkia iragazkia-ondo" type="button" data-iragazkia="asmatuak" aria-pressed="false">✅ Asmatuak <span id="iragazki-asmatuak" class="iragazki-kopurua">0</span></button>
+          <button class="iragazkia iragazkia-gaizki" type="button" data-iragazkia="hutsak" aria-pressed="false">❌ Hutsak <span id="iragazki-hutsak" class="iragazki-kopurua">0</span></button>
+        </div>
+        <ol id="berrikuspena" class="berrikuspena"></ol>
+      </section>
+    </section>
+  </main>
+
+  <footer class="oina">
+    <p id="oina-iturria"></p>
+    <p>Galderen iturria: «Tribial futbol galderak.md» dokumentua.</p>
+  </footer>
+
+  <!-- ARAU BEREZIAK -->
+  <dialog id="arauak-leihoa" class="arauak-leihoa" aria-labelledby="arauak-izenburua">
+    <div class="arauak-edukia">
+      <button id="arauak-x" class="arauak-x" type="button" aria-label="Itxi" title="Itxi">✖</button>
+      <h2 id="arauak-izenburua"></h2>
+      <p id="arauak-sarrera"></p>
+      <ul id="arauak-zerrenda" class="arauak-zerrenda"></ul>
+      <h3>🎯 Zailtasun-mailak</h3>
+      <ul id="arauak-mailak" class="arauak-mailak"></ul>
+      <p id="arauak-oharra" class="arauak-oharra"></p>
+      <button id="arauak-itxi" class="botoia botoia-nagusia botoia-zabala" type="button">Ulertuta! 👍</button>
+    </div>
+  </dialog>
+
+  <div id="konfetia" class="konfetia" aria-hidden="true"></div>
+
+  <script src="js/dokumentua.js"></script>
+  <script src="js/parser.js"></script>
+  <script src="js/marrazkiak.js"></script>
+  <script src="js/jokoa.js"></script>
+</body>
+</html>
