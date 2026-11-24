@@ -6,6 +6,7 @@
   'use strict';
 
   const GALDERA_KOPURUA = 10;
+  const IZAR_KOPURUA = 5;
   const DOKUMENTUA = 'Tribial futbol galderak.md';
 
   const ZAILTASUN_AUKERAK = [
@@ -36,7 +37,6 @@
     bikaina: {
       izenburua: 'TXAPELDUN! 🏆',
       aldartea: 'pozik',
-      izarrak: 3,
       mezuak: [
         'Perfektua! Zure buruan arau-liburu oso bat dago! 📘',
         'Gol guztiak sartu dituzu! Kontuz, futbol 8an 9. golaren ondoren ez dira kontatzen... 😜',
@@ -47,7 +47,6 @@
     ona: {
       izenburua: 'Oso ondo! 🥇',
       aldartea: 'pozik',
-      izarrak: 2,
       mezuak: [
         'Bikain! Txartel horirik gabe gainditu duzu proba! 🙌',
         'Zer nolako jokalaria! Pixka bat gehiago eta txapeldun izango zara! 🏆',
@@ -58,7 +57,6 @@
     erdikoa: {
       izenburua: 'Ez dago gaizki! 🥈',
       aldartea: 'normala',
-      izarrak: 1,
       mezuak: [
         'Txutea ona zen, baina batzuetan langa jo du! Saiatu berriro! 🥅',
         'Erdia baino gehiago... edo ia! Entrenatu pixka bat gehiago! 💪',
@@ -69,7 +67,6 @@
     hasiberria: {
       izenburua: 'Segi entrenatzen! 💪',
       aldartea: 'normala',
-      izarrak: 0,
       mezuak: [
         'Lasai! Futbolari onenek ere huts egiten zuten hasieran. Berriro saiatu! ⚽',
         'Gaur baloia biribila zen... eta ihes egin dizu! 😅 Saiatu berriro!',
@@ -481,6 +478,17 @@
     return 'hasiberria';
   }
 
+  /**
+   * Balorazioa 5 izarretan: asmatutakoen proportzioa biribilduta.
+   * 5 izar osoak emaitza perfektuarentzat bakarrik; asmatu bat badago, gutxienez izar bat.
+   */
+  function izarKopurua(asmatuak, guztira) {
+    if (!guztira || asmatuak === 0) return 0;
+    if (asmatuak === guztira) return IZAR_KOPURUA;
+    const izarrak = Math.round((asmatuak / guztira) * IZAR_KOPURUA);
+    return Math.min(IZAR_KOPURUA - 1, Math.max(1, izarrak));
+  }
+
   function erakutsiEmaitzak() {
     const n = egoera.jokoa.length;
     const a = egoera.asmatuak;
@@ -494,10 +502,13 @@
     $('emaitza-izenburua').textContent = info.izenburua;
     $('emaitza-guztira').textContent = String(n);
     $('emaitza-mezua').textContent = ausaz(info.mezuak);
-    $('emaitza-izarrak').innerHTML = [0, 1, 2].map((i) =>
-      '<span class="izarra' + (i < info.izarrak ? ' piztuta' : '') + '" style="animation-delay:' + (0.3 + i * 0.25) + 's">★</span>'
-    ).join('');
-    $('emaitza-izarrak').setAttribute('aria-label', info.izarrak + ' izar 3tik');
+    const izarrak = izarKopurua(a, n);
+    let izarrenHtml = '';
+    for (let i = 0; i < IZAR_KOPURUA; i++) {
+      izarrenHtml += '<span class="izarra' + (i < izarrak ? ' piztuta' : '') + '" style="animation-delay:' + (0.3 + i * 0.2).toFixed(1) + 's">★</span>';
+    }
+    $('emaitza-izarrak').innerHTML = izarrenHtml;
+    $('emaitza-izarrak').setAttribute('aria-label', izarrak + ' izar ' + IZAR_KOPURUA + 'etik');
     $('emaitza-ehunekoa').style.width = (n ? Math.round((a / n) * 100) : 0) + '%';
 
     zenbatuGora($('emaitza-asmatuak'), a);

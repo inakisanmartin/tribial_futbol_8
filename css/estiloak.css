@@ -410,7 +410,7 @@ kbd {
 .emaitza-azpitestua { margin: 2px 0 10px; font-weight: 700; color: var(--testu-arina); }
 .emaitza-barra { height: 18px; max-width: 420px; margin: 0 auto 10px; border-radius: 9px; background: #eceff1; overflow: hidden; box-shadow: inset 0 2px 0 rgba(0, 0, 0, 0.08); }
 .emaitza-barra-betea { height: 100%; width: 0; border-radius: 9px; background: linear-gradient(90deg, var(--horia), var(--berdea)); transition: width 1.2s ease-out 0.2s; }
-.izarrak { font-size: 3rem; line-height: 1; letter-spacing: 6px; margin: 4px 0; }
+.izarrak { font-size: clamp(2.2rem, 9vw, 3rem); line-height: 1; letter-spacing: 4px; margin: 4px 0; }
 .izarra { color: #dfe4e8; display: inline-block; }
 .izarra.piztuta { color: var(--horia); text-shadow: 0 3px 0 var(--horia-iluna); animation: izarra-agertu 0.5s cubic-bezier(0.3, 1.8, 0.5, 1) both; }
 @keyframes izarra-agertu { from { transform: scale(0) rotate(-90deg); } to { transform: scale(1) rotate(0); } }
