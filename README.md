@@ -15,6 +15,8 @@ Abre `index.html` con doble clic en cualquier navegador moderno (Edge, Chrome, F
 
 También se puede responder con el teclado (`a`, `b`, `d` o `1`, `2`, `3`). El botón 🔊 activa o quita el sonido.
 
+Desde la pantalla de inicio, el botón **🗺️ Zelaia eta atea ezagutu** abre un mapa interactivo del campo y de la portería. Al pulsar una parte del dibujo (o su botón debajo), se explica qué es, qué medidas tiene y para qué sirve. Los textos y medidas están en `js/zelaia.js`.
+
 ## Cómo modificar las preguntas
 
 Edita `Tribial futbol galderak.md` respetando su formato:
@@ -31,6 +33,10 @@ Edita `Tribial futbol galderak.md` respetando su formato:
 ---
 ```
 
+Reglas de redacción:
+
+- **No uses nunca punto y coma (`;`)** en preguntas, opciones ni explicaciones. Según el caso, usa `,`, `:` o `.`, para que el texto sea más fácil de entender.
+
 Después:
 
 - **Abriendo `index.html` directamente:** ejecuta `eguneratu-galderak.bat` (o `node tresnak/eguneratu-galderak.js`). Esto copia el documento a `js/dokumentua.js` y muestra un resumen con las preguntas por categoría y dificultad, y avisa de las que tengan errores. Necesita Node.js.
@@ -42,10 +48,11 @@ Las categorías nuevas aparecen solas. Si no tienen dibujo propio, se usa el emo
 
 | Archivo | Contenido |
 |---|---|
-| `index.html` | Pantallas: inicio, pregunta, resultados y ventana de reglas especiales |
+| `index.html` | Pantallas: inicio, pregunta, resultados, mapa del campo y ventana de reglas especiales |
 | `css/estiloak.css` | Estilos, animaciones y diseño para móvil |
 | `js/parser.js` | Lee el Markdown: categorías, dificultades, preguntas, reglas del torneo |
 | `js/marrazkiak.js` | Dibujos SVG: mascota *Baloitxo*, portería, iconos de categoría, trofeo y medallas |
+| `js/zelaia.js` | Mapa interactivo del campo y la portería: dibujos SVG, textos y medidas de cada parte |
 | `js/jokoa.js` | Lógica del juego, sonidos (Web Audio), mensajes, chistes y confeti |
 | `js/dokumentua.js` | Copia generada del `.md` (no editar a mano) |
 | `tresnak/eguneratu-galderak.js` | Regenera `js/dokumentua.js` |

@@ -513,6 +513,58 @@ details[open] .berrik-gezia { transform: rotate(180deg); }
 .oina strong { color: #fff3b0; }
 .oina-eguneraketa { margin-top: 8px !important; font-size: 0.8rem; opacity: 0.9; }
 
+/* ---------- Zelaiaren mapa ---------- */
+
+.mapa-sarrera { margin: -6px 0 14px; color: var(--testu-arina); font-weight: 600; }
+.mapa-marrazkia { border-radius: 18px; overflow: hidden; box-shadow: inset 0 0 0 4px rgba(0, 0, 0, 0.06); background: #2f8a47; }
+.mapa-svg { display: block; width: 100%; height: auto; }
+
+.mapa-svg .ik { fill: none; stroke: #fff; stroke-width: 3; transition: stroke 0.15s; }
+.mapa-svg .jo { fill: none; stroke: transparent; stroke-width: 16; pointer-events: stroke; }
+.mapa-svg .jo-bete { fill: transparent; pointer-events: all; transition: fill 0.15s; }
+.mapa-svg .ik-f { transition: fill 0.15s; }
+
+.mapa-zatia { cursor: pointer; outline: none; }
+.mapa-zatia:hover .ik { stroke: #fff59d; }
+.mapa-zatia:hover .jo-bete { fill: rgba(255, 255, 255, 0.14); }
+.mapa-zatia:focus-visible .ik { stroke: #4cc9f0 !important; }
+.mapa-zatia:focus-visible .jo-bete { fill: rgba(76, 201, 240, 0.3); }
+.mapa-zatia.hautatua { filter: drop-shadow(0 0 3px rgba(255, 210, 63, 0.95)); }
+.mapa-zatia.hautatua .ik { stroke: var(--horia) !important; }
+.mapa-zatia.hautatua .ik-f { fill: var(--horia) !important; }
+.mapa-zatia.hautatua .jo-bete { fill: rgba(255, 210, 63, 0.32); animation: mapa-dirdira 1.2s ease-in-out infinite; }
+@keyframes mapa-dirdira { 50% { fill: rgba(255, 210, 63, 0.12); } }
+
+.mapa-neurriak { pointer-events: none; }
+.mapa-neurriak text { font-family: var(--letra-mota); font-size: 13px; font-weight: 800; fill: var(--iluna); }
+
+.mapa-info {
+  margin: 16px 0; padding: 16px 18px; border-radius: 18px;
+  background: var(--krema); border: 3px dashed #e0d6bf;
+}
+.mapa-info.betea { border: 3px solid var(--horia); background: #fffbe6; animation: panela-sartu 0.35s ease-out; }
+.mapa-info-hutsa { margin: 0; font-weight: 700; color: var(--testu-arina); text-align: center; }
+.mapa-info-izenburua { margin: 0 0 10px; font-size: 1.35rem; font-weight: 800; line-height: 1.2; color: var(--iluna); }
+.mapa-info-zerrenda { margin: 0; display: grid; gap: 10px; }
+.mapa-info-zerrenda div { display: grid; grid-template-columns: 9.5em 1fr; gap: 10px; align-items: baseline; }
+.mapa-info-zerrenda dt { font-weight: 800; color: var(--urdina); }
+.mapa-info-zerrenda dd { margin: 0; }
+.mapa-info-zerrenda strong { background: linear-gradient(transparent 60%, rgba(255, 210, 63, 0.55) 60%); }
+.mapa-esteka { margin-top: 12px; }
+
+.pilula {
+  display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+  padding: 6px 14px; border-radius: 999px; border: 3px solid #cfd8dc;
+  background: #fff; color: var(--iluna); font-size: 1rem; font-weight: 700;
+}
+.pilula:focus-visible { outline: 4px solid var(--urdina); outline-offset: 3px; }
+.mapa-fitxa[aria-pressed="true"] { background: var(--iluna); border-color: var(--iluna); color: #fff; }
+.mapa-zatiak { display: flex; flex-wrap: wrap; gap: 8px; }
+.mapa-botoia { font-size: 0.92rem; padding: 4px 12px; }
+.mapa-botoia:hover { border-color: var(--horia); }
+.mapa-botoia[aria-pressed="true"] { background: var(--horia); border-color: var(--horia-iluna); color: var(--iluna); }
+.mapa-oharra { margin: 14px 0 0; font-size: 0.85rem; color: var(--testu-arina); }
+
 /* ---------- Mugikorrak ---------- */
 
 @media (max-width: 640px) {
@@ -536,4 +588,5 @@ details[open] .berrik-gezia { transform: rotate(180deg); }
   .emaitza-maskota { width: 100px; }
   .emaitza-saria { width: 84px; }
   .botoi-errenkada .botoia { flex: 1 1 100%; }
+  .mapa-info-zerrenda div { grid-template-columns: 1fr; gap: 2px; }
 }

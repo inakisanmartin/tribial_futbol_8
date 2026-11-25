@@ -56,7 +56,28 @@
         <p id="aukeraketa-info" class="aukeraketa-info" aria-live="polite"></p>
         <button id="jokatu" class="botoia botoia-nagusia botoia-handia" type="button">Jokatu! ⚽</button>
         <button id="arauak-ireki" class="botoia botoia-zuria" type="button">📜 Gure txapelketaren arau bereziak</button>
+        <button id="zelaia-ireki" class="botoia botoia-zuria" type="button">🗺️ Zelaia eta atea ezagutu</button>
       </div>
+    </section>
+
+    <!-- ZELAIAREN MAPA -->
+    <section id="pantaila-zelaia" class="pantaila" hidden>
+      <div class="joko-goiburua">
+        <button id="zelaia-itzuli" class="botoia botoia-txikia" type="button">⬅ Hasierara</button>
+      </div>
+
+      <section class="txartela">
+        <h2 class="atal-izenburua">🗺️ Zelaia eta atea ezagutu</h2>
+        <p class="mapa-sarrera">Sakatu marrazkiko zati bat zer den, zer neurri duen eta zertarako balio duen jakiteko.</p>
+        <div class="iragazkiak" role="group" aria-label="Mapa aukeratu">
+          <button class="pilula mapa-fitxa" type="button" data-mapa="zelaia" aria-pressed="true">🏟️ Zelaia</button>
+          <button class="pilula mapa-fitxa" type="button" data-mapa="atea" aria-pressed="false">🥅 Atea</button>
+        </div>
+        <div id="mapa-marrazkia" class="mapa-marrazkia"></div>
+        <div id="mapa-info" class="mapa-info" aria-live="polite"></div>
+        <div id="mapa-zatiak" class="mapa-zatiak" role="group" aria-label="Zatiak"></div>
+        <p id="mapa-oharra" class="mapa-oharra"></p>
+      </section>
     </section>
 
     <!-- JOKOA -->
@@ -170,6 +191,7 @@
   <script src="js/dokumentua.js"></script>
   <script src="js/parser.js"></script>
   <script src="js/marrazkiak.js"></script>
+  <script src="js/zelaia.js"></script>
   <script src="js/jokoa.js"></script>
 </body>
 </html>

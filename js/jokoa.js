@@ -723,6 +723,9 @@
         erakutsiPantaila('hasiera');
       }
     });
+    $('zelaia-ireki').addEventListener('click', () => { soinua.klik(); erakutsiPantaila('zelaia'); });
+    $('zelaia-itzuli').addEventListener('click', () => { soinua.klik(); erakutsiPantaila('hasiera'); });
+    if (window.ZelaiaMapa) ZelaiaMapa.hasieratu({ klik: soinua.klik });
     $('arauak-ireki').addEventListener('click', irekiArauak);
     $('arauak-itxi').addEventListener('click', itxiArauak);
     $('arauak-x').addEventListener('click', itxiArauak);
