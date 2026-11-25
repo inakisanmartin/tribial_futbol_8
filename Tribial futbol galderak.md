@@ -112,9 +112,23 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 **Erantzuna:** b)
 **Azalpena:** Futbol 8an, **9. golaren ondoren golak ez dira kontatzen**. Beraz, talde batek gehienez 9 gol izan ditzake markagailuan. Horrela, emaitzak ez dira oso handiak izaten eta inor ez da gaizki sentitzen.
 
+---
+
+**1.9. Noiz jo behar du epaileak txistu?**
+
+- a) Baloia zelaitik kanpora ateratzen den bakoitzean, beti
+- b) Zatiak hasteko eta amaitzeko, gol baten ondoren, falta bat dagoenean eta penaltia jaurtitzeko
+- d) Jokalari batek baloia ukitzen duen bakoitzean
+
+**Erantzuna:** b)
+**Azalpena:** Epaileak txistua **beharrezkoa denean bakarrik** erabiltzen du. Gehiegi joz gero, garrantzia galtzen du.
+- **Beti jotzen du:** zati bakoitza **hasteko** eta **amaitzeko**, **gol baten ondoren**, hasierako sakea egiteko, **falta** bat dagoenean jokoa geldiarazteko, **penaltia** jaurtitzeko baimena emateko eta beste arrazoi batengatik jokoa geldiarazteko (adibidez, jokalari bat min hartuta).
+- **Jokoa berrabiarazteko ere bai:** hesia 6 metrora jarri ondoren, txartel bat atera ondoren edo lesio baten ondoren.
+- **Ez da behar izaten:** baloia argi eta garbi kanpora ateratzen denean (banda-sakea, ate-sakea, kornerra) eta abantaila ematen duenean.
+
 ### 🔴 Zaila
 
-**1.9. Epaileak beso bat gora jasota mantentzen du jaurtiketa libre bat jaurtitzean. Zer adierazten du?**
+**1.10. Epaileak beso bat gora jasota mantentzen du jaurtiketa libre bat jaurtitzean. Zer adierazten du?**
 
 - a) Jaurtiketa libre zuzena dela
 - b) Zeharkako jaurtiketa librea dela
@@ -125,7 +139,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.10. Baloiak epailea jotzen du eta zuzenean atean sartzen da. Gola da?**
+**1.11. Baloiak epailea jotzen du eta zuzenean atean sartzen da. Gola da?**
 
 - a) Ez, epaileak jokoa geldiarazi eta baloia lurrera uzten du (bote neutroa)
 - b) Bai, beti
@@ -136,7 +150,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.11. Zeharkako jaurtiketa libre bat zuzenean aurkariaren atean sartzen da, inork ukitu gabe. Zer erabakitzen du epaileak?**
+**1.12. Zeharkako jaurtiketa libre bat zuzenean aurkariaren atean sartzen da, inork ukitu gabe. Zer erabakitzen du epaileak?**
 
 - a) Ate-sakea aurkako taldearentzat
 - b) Gola
@@ -147,7 +161,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.12. Partida batean, bi taldeek 9 gol baino gehiago sartu dituzte, eta batek besteak baino gehiago sartu ditu. Zein da emaitza ofiziala?**
+**1.13. Partida batean, bi taldeek 9 gol baino gehiago sartu dituzte, eta batek besteak baino gehiago sartu ditu. Zein da emaitza ofiziala?**
 
 - a) 9-9
 - b) 10-9
@@ -158,7 +172,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.13. Jokalari batek bi txartel hori jaso ditu partida batean. Gure txapelketan, hurrengo partidan jokatu dezake?**
+**1.14. Jokalari batek bi txartel hori jaso ditu partida batean. Gure txapelketan, hurrengo partidan jokatu dezake?**
 
 - a) Bai
 - b) Ez, hurrengo partida zigortuta dago
@@ -169,7 +183,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.14. Jokalari batek txartel gorri zuzena jaso du. Gure txapelketan, hurrengo partidan jokatu dezake?**
+**1.15. Jokalari batek txartel gorri zuzena jaso du. Gure txapelketan, hurrengo partidan jokatu dezake?**
 
 - a) Bai
 - b) Ez, txapelketako hurrengo partidan ezin du parte hartu
@@ -180,7 +194,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.15. Jokalari batek txartel hori bat du jada eta falta oso larria egiten du. Zer atera diezaioke epaileak?**
+**1.16. Jokalari batek txartel hori bat du jada eta falta oso larria egiten du. Zer atera diezaioke epaileak?**
 
 - a) Txartel gorri zuzena
 - b) Bigarren horia bakarrik, horia duenari ezin zaio gorri zuzenik atera
@@ -191,7 +205,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.16. Baloiak epailea ukitzen du eta, ondoren, alboko marratik kanpora ateratzen da. Zer gertatzen da?**
+**1.17. Baloiak epailea ukitzen du eta, ondoren, alboko marratik kanpora ateratzen da. Zer gertatzen da?**
 
 - a) Bote neutroa, epaileak ukitu duelako
 - b) Banda-sakea, epailearen aurretik baloia azken aldiz ukitu ez zuen taldearentzat
@@ -202,7 +216,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.17. Baloiak epailea ukitzen du eta, ondoren, ate-marratik kanpora ateratzen da, atean sartu gabe. Zer gertatzen da?**
+**1.18. Baloiak epailea ukitzen du eta, ondoren, ate-marratik kanpora ateratzen da, atean sartu gabe. Zer gertatzen da?**
 
 - a) Bote neutroa, beti
 - b) Ate-sakea edo kornerra, epailearen aurretik baloia azken aldiz ukitu zuen taldearen arabera
@@ -217,7 +231,7 @@ Kasu berezia: epailea ukitu ondoren baloia **zuzenean atean sartzen bada**, ez d
 
 ---
 
-**1.18. Talde batek baloia du; baloiak epailea jotzen du eta aurkako jokalari batek hartzen du. Zer egin behar du epaileak?**
+**1.19. Talde batek baloia du. Baloiak epailea jotzen du eta aurkako jokalari batek hartzen du. Zer egin behar du epaileak?**
 
 - a) Jokoa geldiarazi eta bote neutroa egin baloia galdu duen taldearentzat
 - b) Jokoa jarraitzen utzi, epailea zelaiaren parte delako
@@ -231,7 +245,7 @@ Jokoa **bote neutroarekin** berrabiarazten da:
 
 ---
 
-**1.19. Baloiak epailea ukitzen du, baina talde berak jarraitzen du baloiarekin eta ez da eraso arriskutsurik sortzen. Zer gertatzen da?**
+**1.20. Baloiak epailea ukitzen du, baina talde berak jarraitzen du baloiarekin eta ez da eraso arriskutsurik sortzen. Zer gertatzen da?**
 
 - a) Jokoak jarraitzen du, ezer gertatu ez balitz bezala
 - b) Epaileak jokoa geldiarazi eta bote neutroa egiten du, beti
@@ -247,7 +261,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**1.20. Epaileak jokoa geldiarazten du jokalari bat min hartuta dagoelako, faltarik egon gabe. Nola berrabiarazten da jokoa?**
+**1.21. Epaileak jokoa geldiarazten du jokalari bat min hartuta dagoelako, faltarik egon gabe. Nola berrabiarazten da jokoa?**
 
 - a) Banda-sakearekin, jokoa gelditu zenean baloia ez zuen taldearentzat
 - b) Bote neutroarekin: epaileak baloia lurrera uzten du
@@ -260,6 +274,52 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 - **Kasu berezia:** jokoa gelditu zenean baloia **area handiaren barruan** bazegoen (edo azken ukitua area barruan izan bazen), baloia defentsako **atezainari** uzten zaio, nork ukitu zuen azken aldiz kontuan hartu gabe.
 
 Beste jokalari guztiek, bi taldeetakoek, gutxienez **4 metrora** egon behar dute, eta baloia jokoan dago **lurra ukitzen duenean**. Bote neutrotik **ezin da zuzenean gola sartu**: baloiak gutxienez bi jokalari ukitu behar ditu lehenago.
+
+---
+
+**1.22. Epaileak txistu luze eta indartsua jotzen du jokoa geldiarazteko. Zer adierazi nahi du, ziurrenik?**
+
+- a) Falta txiki bat izan dela, garrantzirik gabea
+- b) Falta larria izan dela, edo penaltia
+- d) Baloia alboko marratik atera dela
+
+**Erantzuna:** b)
+**Azalpena:** Txistuaren **soinuak** ere informazioa ematen du:
+- **Txistu labur eta arina:** falta arruntak, edo jokoa berrabiarazteko (hasierako sakea, hesia jarri ondorengo jaurtiketa librea...).
+- **Txistu luze eta indartsua:** **falta larriak** (txartela izan dezaketenak), **penaltiak**, edo jokalariak lasaitu behar direnean. Horrela, denek ulertzen dute zerbait garrantzitsua gertatu dela.
+
+Ez da arau idatzia, epaileek erabiltzen duten **ohitura** baizik.
+
+---
+
+**1.23. Gure txapelketan, zenbat aldiz jotzen du epaileak txistu zati bat amaitzeko, eta zenbat partida amaitzeko?**
+
+- a) Behin, bi kasuetan
+- b) Bi aldiz zati baten amaieran, eta hiru aldiz partidaren amaieran (azkena luzeagoa)
+- d) Hiru aldiz zati baten amaieran, eta behin partidaren amaieran
+
+**Erantzuna:** b)
+**Azalpena:** Ohituraz, epaileek honela jotzen dute txistu:
+- **Zati bat hasteko eta gol baten ondoren:** **txistu labur bat**, hasierako sakea egiteko.
+- **1. eta 2. zatien amaieran:** **bi txistu**, atsedenaldia hasten dela adierazteko.
+- **Partidaren amaieran (3. zatia):** **hiru txistu**, azkena luzeagoa. Horrela, denek dakite partida bukatu dela.
+
+Futbolaren arauek ez dute zehazten zenbat aldiz jo behar den txistu. Epaile gehienek erabiltzen duten ohitura da.
+
+---
+
+**1.24. Nola jotzen du epaileak txistu gola izan dela adierazteko?**
+
+- a) Txistu bakar bat, luzea eta indartsua, eta zelai erdira seinalatzen du besoarekin
+- b) Hiru txistu labur, eta ate-sakea seinalatzen du
+- d) Ez du txistu jotzen, atezainak baloia hartu arte itxaroten du
+
+**Erantzuna:** a)
+**Azalpena:** Gola izan denean, epaileak **txistu bakar bat** jotzen du, **luzea eta indartsua**, eta besoarekin **zelai erdira** (erdiko zirkulura) seinalatzen du, hor egingo baita hasierako sakea.
+- **Gola adierazteko:** txistu bakar bat, **luzea eta indartsua**, denek argi entzun eta jokoa gelditu dadin.
+- **Ondoren, hasierako sakea egiteko:** txistu **labur** bat, jokalari guztiak beren zelai erdian daudenean.
+
+Ez da arau idatzia, epaileek erabiltzen duten **ohitura** baizik. Gola oso argia bada, batzuetan nahikoa da zelai erdira seinalatzea.
 
 ---
 
@@ -628,7 +688,23 @@ Kasu bereziak:
 - **Penalti-puntuaren atzean** (atetik urrunago).
 - Penalti-puntutik gutxienez **6 metrora**.
 
-Jaurtitzaileak baloia **aurrera** jo behar du, eta epaileak txistu jo arte ezin du jaurti. Baloia jo ondoren, jokalari guztiak sar daitezke areara. Baloiak **zutoina edo langa** jotzen badu eta jaurtitzailearengana itzultzen bada, jaurtitzaileak **ezin du berriro ukitu** beste jokalari batek ukitu arte; atezainak geldiarazi eta errebotatzen badu, ordea, bai.
+Jaurtitzaileak baloia **aurrera** jo behar du, eta epaileak txistu jo arte ezin du jaurti. Baloia jo ondoren, jokalari guztiak sar daitezke areara. Baloiak **zutoina edo langa** jotzen badu eta jaurtitzailearengana itzultzen bada, jaurtitzaileak **ezin du berriro ukitu** beste jokalari batek ukitu arte. Atezainak geldiarazi eta errebotatzen badu, ordea, bai.
+
+---
+
+**3.20. Zer da jaurtiketa azkarra?**
+
+- a) Jaurtiketa librea berehala egitea, epaileak txistu jo eta hesia jarri arte itxaron gabe
+- b) Penaltia ahalik eta indar handienarekin jaurtitzea
+- d) Baloia geldirik jarri gabe, korrika jarraituz jaurtitzea
+
+**Erantzuna:** a)
+**Azalpena:** Falta baten ondoren, jaurtitzaileak **ez du zertan itxaron** epaileak txistu jo arte edo hesia jarri arte: **azkar** jaurti dezake, aurkariak oraindik ondo kokatuta ez daudela aprobetxatzeko.
+- **Baldintzak:** baloia **geldirik** egon behar du eta **dagokion lekutik** jaurti behar da (normalean, falta egin den lekutik).
+- **Arriskua:** aurkariak oraindik **6 metro baino gertuago** egon daitezke. Gertu dagoen aurkari batek baloia hartzen badu, **jokoak jarraitzen du**: jaurtitzaileak hartu du arrisku hori.
+- **Ezin da egin:** jaurtitzaileak **hesia eskatzen** badu (orduan epaileak txistu jo arte itxaron behar du), edo epaileak jokoa geldirik mantentzen badu (adibidez, **txartel** bat ateratzeko edo jokalari bati min hartuta dagoelako).
+
+Aurkari bat baloiaren aurrean jartzen bada edo baloia eramaten badu, jaurtiketa azkarra **nahita oztopatzeko**, **txartel horia** atera diezaioke epaileak.
 
 ---
 
@@ -765,6 +841,43 @@ Jaurtitzaileak baloia **aurrera** jo behar du, eta epaileak txistu jo arte ezin 
 
 **Erantzuna:** b)
 **Azalpena:** Futbol 8ko zelaia txikiagoa denez, distantziak ere txikiagoak dira: jaurtiketa libre zuzenean zein zeharkakoan, aurkariek gutxienez **6 metrora** egon behar dute baloitik (futbol 11n 9,15 metro dira).
+
+---
+
+**4.13. Erasoko taldeak zeharkako jaurtiketa librea du aurkariaren area handiaren barruan, ate-marratik 6 metro baino gutxiagora. Non jar daiteke hesia?**
+
+- a) Ate-marraren gainean, zutoinen artean
+- b) Baloitik 6 metrora, nahiz eta atearen barruan geratu
+- d) Area handitik kanpo
+
+**Erantzuna:** a)
+**Azalpena:** Normalean, hesia baloitik gutxienez **6 metrora** jarri behar da. Baina baloia ate-marratik 6 metro baino gertuago badago, ez dago 6 metro uzteko lekurik: orduan, defentsako jokalariak **ate-marraren gainean, zutoinen artean** jar daitezke.
+Gogoratu: falta **area txikiaren barruan** izan bada, baloia area txikiaren marrara ateratzen da, faltatik hurbilen dagoen puntura.
+
+---
+
+**4.14. Defentsako taldeak jaurtiketa librea du bere area handiaren barruan. Non egon behar dute aurkariek?**
+
+- a) Baloitik 2 metrora
+- b) Area handitik kanpo, eta baloitik gutxienez 6 metrora
+- d) Nahi duten lekuan, area barruan ere bai
+
+**Erantzuna:** b)
+**Azalpena:** Ate-sakean bezala, aurkariek **area handitik kanpo** eta baloitik gutxienez **6 metrora** egon behar dute, baloia jokoan egon arte. Baloia jokoan dago **jo eta argi mugitzen denean**, ez du areatik atera beharrik.
+Aurkari bat area barruan geratu bada eta baloia ukitzen badu edo jaurtiketa oztopatzen badu, jaurtiketa **errepikatu** egiten da.
+
+---
+
+**4.15. Jaurtiketa libre batean, defentsako jokalari bat baloitik 6 metro baino gertuago jartzen da eta jaurtiketa geldiarazten du. Zer erabakitzen du epaileak?**
+
+- a) Jaurtiketa errepikatu eta jokalari horri txartel horia atera
+- b) Jokoak jarraitzen du, ezer gertatu ez balitz bezala
+- d) Penaltia
+
+**Erantzuna:** a)
+**Azalpena:** Distantzia ez errespetatzea **txartel horia** izan daiteke, eta jaurtiketa **errepikatu** egiten da.
+- **Hesia eskatzen bada:** epaileak distantzia neurtzen du (6 metro), eta jaurtitzaileak ezin du jaurti epaileak **txistu** jo arte.
+- **Jaurtiketa azkarra:** jaurtitzaileak hesia jarri baino lehen azkar jaurtitzea erabakitzen badu eta gertu dagoen aurkari batek baloia hartzen badu, **jokoak jarraitzen du**: jaurtitzaileak hartu du arrisku hori.
 
 ---
 
