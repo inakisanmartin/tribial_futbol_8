@@ -213,7 +213,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 - **Erasoko jokalaria** bada: **ate-sakea** defentsako taldearentzat.
 - **Defentsako jokalaria** (atezaina barne) bada: **kornerra** erasoko taldearentzat.
 
-Kasu berezia: epailea ukitu ondoren baloia **zuzenean atean sartzen bada**, ez da gola, ez ate-sakea, ez kornerra: **bote neutroa** da (ikus 1.10).
+Kasu berezia: epailea ukitu ondoren baloia **zuzenean atean sartzen bada**, ez da gola, ez ate-sakea, ez kornerra: **bote neutroa** da.
 
 ---
 
@@ -239,11 +239,27 @@ Jokoa **bote neutroarekin** berrabiarazten da:
 
 **Erantzuna:** a)
 **Azalpena:** Epailea ukitzeak ez du, berez, jokoa geldiarazten. Epaileak jokoa **hiru kasutan bakarrik** geldiarazten du (eta bote neutroa egiten du), baloiak epailea ukitu ondoren:
-- Baloia **zuzenean atean sartzen bada** (ikus 1.10).
-- Baloiaren **jabetza taldez aldatzen bada** (ikus 1.18).
+- Baloia **zuzenean atean sartzen bada**.
+- Baloiaren **jabetza taldez aldatzen bada**.
 - Talde berak baloia mantentzen du, baina **eraso arriskutsu bat** hasten bada.
 
-Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratzen bada, ohiko sakea egiten da (ikus 1.16 eta 1.17).
+Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratzen bada, ohiko sakea egiten da.
+
+---
+
+**1.20. Epaileak jokoa geldiarazten du jokalari bat min hartuta dagoelako, faltarik egon gabe. Nola berrabiarazten da jokoa?**
+
+- a) Banda-sakearekin, jokoa gelditu zenean baloia ez zuen taldearentzat
+- b) Bote neutroarekin: epaileak baloia lurrera uzten du
+- d) Zeharkako jaurtiketa librearekin, min hartu duen jokalariaren taldearentzat
+
+**Erantzuna:** b)
+**Azalpena:** Epaileak jokoa **faltarik gabe** geldiarazten duenean (jokalari bat min hartuta, beste baloi bat zelaian sartzen da, baloia hausten da...), jokoa **bote neutroarekin** berrabiarazten da:
+- **Nori:** baloia **azken aldiz ukitu zuen taldeko** jokalari bati uzten zaio.
+- **Nondik:** baloiak azken aldiz jokalari bat (edo epailea edo kanpoko zerbait) ukitu zuen lekutik.
+- **Kasu berezia:** jokoa gelditu zenean baloia **area handiaren barruan** bazegoen (edo azken ukitua area barruan izan bazen), baloia defentsako **atezainari** uzten zaio, nork ukitu zuen azken aldiz kontuan hartu gabe.
+
+Beste jokalari guztiek, bi taldeetakoek, gutxienez **4 metrora** egon behar dute, eta baloia jokoan dago **lurra ukitzen duenean**. Bote neutrotik **ezin da zuzenean gola sartu**: baloiak gutxienez bi jokalari ukitu behar ditu lehenago.
 
 ---
 
@@ -368,7 +384,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 - d) Penaltia atezainaren taldearentzat
 
 **Erantzuna:** b)
-**Azalpena:** Atezainak eskuekin hartzen duen baloia lasai atera behar du. Aurkari batek hori eragozten badio, falta da (zeharkakoa).
+**Azalpena:** Atezainak eskuekin hartzen duen baloia lasai atera behar du. Aurkari batek hori eragozten badio, zeharkako falta da.
 
 ---
 
@@ -418,9 +434,25 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 **Erantzuna:** b)
 **Azalpena:** Jokalari bakoitzaren ekipamendu derrigorrezkoa hau da: kamiseta, galtza motzak, galtzerdiak, **babesgarriak** eta oinetakoak. Babesgarriek hankak babesten dituzte, eta galtzerdien azpian ezkutatuta egon behar dute. Ekipamendu derrigorrezkoa jantzita eramaten ez bada eta era egokian, jokalari horrek ezingo du partida jokatu.
 
+---
+
+**3.5. Zer da penaltia eta noiz ematen da?**
+
+- a) Erdiko zirkulutik egiten den jaurtiketa, gol bat sartu ondoren
+- b) Penalti-puntutik egiten den jaurtiketa, defentsak bere area handiaren barruan falta zuzena egiten duenean
+- d) Izkinatik egiten den jaurtiketa, atezainak baloia ate-marratik kanpora botatzen duenean
+
+**Erantzuna:** b)
+**Azalpena:** Penaltia jokoan dagoen **zigorrik handiena** da.
+- **Noiz:** defentsako jokalari batek **bere area handiaren barruan** falta zuzena egiten duenean (bultzatu, zangotrabatu, heldu, ostikoa eman, baloia nahita eskuz ukitu...), baloia jokoan dagoela, baloia area barruan egon zein ez.
+- **Zergatik:** area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **gol-aukera argi bat** kentzen dio erasoko taldeari. Penaltiarekin aukera hori "itzultzen" zaio.
+- **Nola:** baloia **penalti-puntuan** jartzen da, geldirik, eta **jaurtitzailea eta atezaina** bakarrik aurrez aurre daude, ezin da beste inor egon area handiaren barruan. Jaurtiketa **zuzena** da: gola zuzenean sar daiteke.
+
+Kontuz! Defentsak bere area barruan **zeharkako** falta bat egiten badu (adibidez, joko arriskutsua ukitu gabe), ez da penaltia: **zeharkako jaurtiketa librea** da.
+
 ### 🟡 Ertaina
 
-**3.5. Nola egin behar da banda-sakea ondo?**
+**3.6. Nola egin behar da banda-sakea ondo?**
 
 - a) Bi eskuekin, baloia buruaren atzetik eta gainetik botaz, bi oinak lurrean dituela
 - b) Esku batekin, korrika eginez
@@ -431,7 +463,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**3.6. Noiz da kornerra?**
+**3.7. Noiz da kornerra?**
 
 - a) Baloia atetik kanpo ate-marraren gainetik ateratzen denean, eta azkena defentsako jokalari batek ukitu duenean
 - b) Baloia alboko marratik ateratzen denean
@@ -442,7 +474,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**3.7. Gure arauaren arabera, nola egiten da hasierako sakea?**
+**3.8. Gure arauaren arabera, nola egiten da hasierako sakea?**
 
 - a) Baloia zuzenean aurkariaren atera jaurtiz
 - b) Baloia atzerantz pasatuz lagun bati, zeharkako jaurtiketa libre bat bezala
@@ -453,7 +485,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**3.8. Gol bat sartu ondoren, zein taldek egiten du hasierako sakea?**
+**3.9. Gol bat sartu ondoren, zein taldek egiten du hasierako sakea?**
 
 - a) Gola jaso duen taldeak
 - b) Gola sartu duen taldeak
@@ -464,7 +496,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**3.9. Bi taldeek kolore bereko kamiseta dute. Zein taldek aldatu behar du?**
+**3.10. Bi taldeek kolore bereko kamiseta dute. Zein taldek aldatu behar du?**
 
 - a) Etxeko taldeak
 - b) Partida irabazten ari ez denak
@@ -475,7 +507,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ### 🔴 Zaila
 
-**3.10. Zer da jokoz kanpo (fuera de juego) futbol 8an?**
+**3.11. Zer da jokoz kanpo (fuera de juego) futbol 8an?**
 
 - a) Zelaitik kanpo dagoen jokalaria
 - b) Aurkariaren 12 metroko zonan dagoen jokalaria, lagunak pasea ematen dionean baloia eta azken bigarren aurkaria baino atetik hurbilago badago
@@ -487,7 +519,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**3.11. Zein sakeetan EZ dago jokoz kanporik?**
+**3.12. Zein sakeetan EZ dago jokoz kanporik?**
 
 - a) Jaurtiketa libreetan
 - b) Ez dago salbuespenik
@@ -498,7 +530,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**3.12. Zer da joko arriskutsua?**
+**3.13. Zer da joko arriskutsua?**
 
 - a) Oso azkar korrika egitea
 - b) Atezainari jaurtiketa gogorra egitea (baloikada)
@@ -514,7 +546,7 @@ Jokalaria ukitzen badu (ostikoa, bultzada...), falta **zuzena** da, eta txartela
 
 ---
 
-**3.13. Zein da jaurtiketa libre zuzenaren eta zeharkakoaren arteko desberdintasuna?**
+**3.14. Zein da jaurtiketa libre zuzenaren eta zeharkakoaren arteko desberdintasuna?**
 
 - a) Ez dago desberdintasunik
 - b) Zuzenean gola sar daiteke zuzenarekin. Zeharkakoan, beste jokalari batek ukitu behar du baloia gola izateko
@@ -527,7 +559,7 @@ Jokalaria ukitzen badu (ostikoa, bultzada...), falta **zuzena** da, eta txartela
 
 ---
 
-**3.14. Defentsako jokalari batek aurkari bat bultzatzen du bere area handiaren barruan, baloia urrun dagoenean. Zer gertatzen da?**
+**3.15. Defentsako jokalari batek aurkari bat bultzatzen du bere area handiaren barruan, baloia urrun dagoenean. Zer gertatzen da?**
 
 - a) Penaltia
 - b) Ezer ez, baloia urrun zegoelako
@@ -538,7 +570,7 @@ Jokalaria ukitzen badu (ostikoa, bultzada...), falta **zuzena** da, eta txartela
 
 ---
 
-**3.15. Jaurtiketa libre zuzen bat jaurtitzen da eta baloia zuzenean jaurtitzailearen talde beraren atean sartzen da. Zer erabakitzen du epaileak?**
+**3.16. Jaurtiketa libre zuzen bat jaurtitzen da eta baloia zuzenean jaurtitzailearen talde beraren atean sartzen da. Zer erabakitzen du epaileak?**
 
 - a) Gola aurkariarentzat
 - b) Kornerra aurkako taldearentzat
@@ -550,7 +582,7 @@ Arau honek saiesten ditu jokoa berrabiarazterakoan gertatutako akatsak. Gauza be
 
 ---
 
-**3.16. Nor da taldeko kapitaina, nola aukeratzen da eta zeintzuk dira bere betebeharrak?**
+**3.17. Nor da taldeko kapitaina, nola aukeratzen da eta zeintzuk dira bere betebeharrak?**
 
 - a) Golak gehien sartzen dituen jokalaria da. Epaileak aukeratzen du eta bera da epaileari protesta egin diezaiokeen bakarra
 - b) Entrenatzaileak partida aurretik aukeratzen duen jokalaria da. Besokoa darama, txanpon-zozketan parte hartzen du eta bere taldearen ordezkaria da epailearen aurrean
@@ -568,7 +600,7 @@ Kapitainak ez du pribilegiorik: gaizki jokatzen badu, epaileak txartela atera di
 
 ---
 
-**3.17. Falta bat egin da eta epaileak jaurtiketa librea adierazi du. Nondik jaurti behar da?**
+**3.18. Falta bat egin da eta epaileak jaurtiketa librea adierazi du. Nondik jaurti behar da?**
 
 - a) Beti zelai erditik
 - b) Falta egin den lekutik, kasu berezi batzuetan izan ezik
@@ -581,6 +613,22 @@ Kasu bereziak:
 - **Defentsako taldeak jaurtiketa librea du bere area txikiaren barruan**: area txikiaren barruko **edozein lekutatik** jaurti dezake.
 - **Erasoko taldeak zeharkako jaurtiketa librea du aurkariaren area txikiaren barruan:** baloia **area txikiaren marrara** ateratzen da (ate-marraren paraleloa dena), faltatik hurbilen dagoen puntura.
 - **Falta zelaitik kanpo egiten da, baloia jokoan dagoela:** muga-marrako punturik hurbilenetik jaurtitzen da. Puntu hori falta egin duenaren area handiaren barruan badago eta falta zuzena bada, penaltia da.
+
+---
+
+**3.19. Penalti bat jaurtitzean, non egon behar dute jaurtitzailea eta atezaina ez diren jokalariek?**
+
+- a) Nahi duten lekuan, area barruan ere bai
+- b) Area handitik kanpo, penalti-puntuaren atzean eta puntu horretatik gutxienez 6 metrora
+- d) Ate-marraren gainean, atezainaren ondoan
+
+**Erantzuna:** b)
+**Azalpena:** Penaltian **jaurtitzailea** eta defentsako **atezaina** bakarrik daude jokoan (atezaina ate-marraren gainean, ikus 2.4). Beste jokalari guztiek, bi taldeetakoek:
+- **Area handitik kanpo** egon behar dute.
+- **Penalti-puntuaren atzean** (atetik urrunago).
+- Penalti-puntutik gutxienez **6 metrora**.
+
+Jaurtitzaileak baloia **aurrera** jo behar du, eta epaileak txistu jo arte ezin du jaurti. Baloia jo ondoren, jokalari guztiak sar daitezke areara. Baloiak **zutoina edo langa** jotzen badu eta jaurtitzailearengana itzultzen bada, jaurtitzaileak **ezin du berriro ukitu** beste jokalari batek ukitu arte; atezainak geldiarazi eta errebotatzen badu, ordea, bai.
 
 ---
 
@@ -663,9 +711,20 @@ Kasu bereziak:
 **Erantzuna:** d)
 **Azalpena:** Futbol 8ko zelaia futbol 11koa baino txikiagoa da: **50 eta 65 metro arteko luzera** eta **30 eta 45 metro arteko zabalera** ditu. Gutxi gorabehera, futbol 11ko zelai erdia da.
 
+---
+
+**4.8. Futbol 8an, nondik jaurtitzen da penaltia?**
+
+- a) Ate-marratik 11 metrora, futbol 11n bezala
+- b) Penalti-puntutik, ate-marraren erdiko puntutik 9 metrora
+- d) Falta egindako tokitik, area handiaren barruan
+
+**Erantzuna:** b)
+**Azalpena:** Penaltia beti **penalti-puntutik** jaurtitzen da, falta area barruko zein lekutan egin den kontuan hartu gabe. Futbol 8an, puntu hori **zutoinen arteko erdiko puntutik 9 metrora** dago (futbol 11n, 11 metrora). Baloia puntuaren gainean jarri behar da, **geldirik**.
+
 ### 🔴 Zaila
 
-**4.8. Baloia alboko marraren gainean dago, baina ez da guztiz kanpora atera. Jokoan dago?**
+**4.9. Baloia alboko marraren gainean dago, baina ez da guztiz kanpora atera. Jokoan dago?**
 
 - a) Ez, kanpoan dago
 - b) Bai, marrak zelaiaren parte dira
@@ -676,7 +735,7 @@ Kasu bereziak:
 
 ---
 
-**4.9. Futbol 8an, zelaiko zein zonatan adierazten da jokoz kanpoa?**
+**4.10. Futbol 8an, zelaiko zein zonatan adierazten da jokoz kanpoa?**
 
 - a) Zelai osoan
 - b) Aurkariaren zelai erdian
@@ -687,7 +746,7 @@ Kasu bereziak:
 
 ---
 
-**4.10. Futbol 8an, zenbat metroko sakonera du area handiak?**
+**4.11. Futbol 8an, zenbat metroko sakonera du area handiak?**
 
 - a) 16,5 metro
 - b) 9 metro
@@ -698,7 +757,7 @@ Kasu bereziak:
 
 ---
 
-**4.11. Futbol 8an, zein distantziatara jarri behar dira aurkariak (hesia) jaurtiketa libre batean?**
+**4.12. Futbol 8an, zein distantziatara jarri behar dira aurkariak (hesia) jaurtiketa libre batean?**
 
 - a) 9,15 metrora
 - b) 6 metrora
