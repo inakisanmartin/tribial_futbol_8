@@ -68,9 +68,32 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 **Erantzuna:** b)
 **Azalpena:** Gure txapelketan partidak **3 zati** ditu, **12 minutukoak**, eta zatien artean **3 minutuko atsedena** dago. Guztira, 36 minutuko jokoa (atsedenak barne, 42 minutu). (NFFren futbol 8ko araudian, berriz, 4 zati dira.)
 
+---
+
+**1.5. Nola jotzen du epaileak txistu partida amaitzeko?**
+
+- a) Txistu labur bat
+- b) Bi txistu
+- d) Hiru txistu, azkena luzeagoa
+
+**Erantzuna:** d)
+**Azalpena:** Partidaren amaieran (gure txapelketan, 3. zatiaren amaieran), epaileak **hiru txistu** jotzen ditu, eta azkena luzeagoa da. Horrela, denek dakite partida bukatu dela. Hau ere ohitura da, ez arau idatzia.
+
+---
+
+**1.6. Nola jotzen du epaileak txistu gola izan dela adierazteko?**
+
+- a) Txistu bakar bat, luzea eta indartsua, eta zelai erdira seinalatzen du besoarekin
+- b) Hiru txistu labur, eta ate-sakea seinalatzen du
+- d) Ez du txistu jotzen, atezainak baloia hartu arte itxaroten du
+
+**Erantzuna:** a)
+**Azalpena:** Gola izan denean, epaileak **txistu bakar bat** jotzen du, **luzea eta indartsua**, denek argi entzun eta jokoa gelditu dadin. Gero besoarekin **zelai erdira** (erdiko zirkulura) seinalatzen du, hor egingo baita hasierako sakea.
+Ez da arau idatzia, epaileek erabiltzen duten **ohitura** baizik. Gola oso argia bada, batzuetan nahikoa da zelai erdira seinalatzea.
+
 ### 🟡 Ertaina
 
-**1.5. Zer gertatzen da jokalari batek partida berean bi txartel hori jasotzen baditu?**
+**1.7. Zer gertatzen da jokalari batek partida berean bi txartel hori jasotzen baditu?**
 
 - a) Txartel gorria ateratzen zaio eta kanporatu egiten da
 - b) Ezer ez, horiak baino ez dira
@@ -81,18 +104,18 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.6. Falta bat egon da, baina epaileak bi besoak aurrera luzatzen ditu eta "jarraitu!" esaten du. Zergatik?**
+**1.8. Falta bat egon da, baina epaileak bi besoak aurrera luzatzen ditu eta "jarraitu!" esaten du. Zergatik?**
 
-- a) Abantaila ematen duelako: falta jaso duen taldeak baloiarekin ondo jarraitzen du
+- a) Partida amaitzeko unea delako
 - b) Ez duelako falta ikusi
-- d) Partida amaitzeko unea delako
+- d) Abantaila ematen duelako: falta jaso duen taldeak baloiarekin ondo jarraitzen du
 
-**Erantzuna:** a)
+**Erantzuna:** d)
 **Azalpena:** Batzuetan jokoa geldiaraztea txarragoa da falta jaso duen taldearentzat (adibidez, eraso on bat egiten ari bada). Orduan epaileak "abantaila" ematen du eta jokoa jarraitzen uzten du.
 
 ---
 
-**1.7. Epaileak erabaki bat aldatu dezake?**
+**1.9. Epaileak erabaki bat aldatu dezake?**
 
 - a) Inoiz ez
 - b) Bai, partida amaitu ondoren ere
@@ -103,7 +126,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.8. Talde batek 12 gol sartu ditu partida batean. Zenbat gol idazten ditu epaileak aktan?**
+**1.10. Talde batek 12 gol sartu ditu partida batean. Zenbat gol idazten ditu epaileak aktan?**
 
 - a) 12
 - b) 9
@@ -114,7 +137,7 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 
 ---
 
-**1.9. Baloia argi eta garbi alboko marratik kanpora ateratzen da. Epaileak txistu jo behar du?**
+**1.11. Baloia argi eta garbi alboko marratik kanpora ateratzen da. Epaileak txistu jo behar du?**
 
 - a) Bai, beti
 - b) Ez, ez da behar izaten: denek ikusi dute baloia kanpoan dagoela
@@ -124,9 +147,64 @@ Galdera hauek **Nafarroako Futbol Federazioaren (NFF) futbol 8ko arauetan** oina
 **Azalpena:** Epaileak txistua **beharrezkoa denean bakarrik** erabiltzen du. Gehiegi joz gero, garrantzia galtzen du. 
 Baloia argi eta garbi kanpora ateratzen denean (banda-sakea, ate-sakea, kornerra), ez da txistu jo behar izaten. **Abantaila** ematen duenean ere ez du txistu jotzen: jokoak jarraitzen du.
 
+---
+
+**1.12. Epaileak jokoa geldiarazten du jokalari bat min hartuta dagoelako, faltarik egon gabe. Nola berrabiarazten da jokoa?**
+
+- a) Banda-sakearekin, jokoa gelditu zenean baloia ez zuen taldearentzat
+- b) Bote neutroarekin: epaileak baloia lurrera uzten du
+- d) Zeharkako jaurtiketa librearekin, min hartu duen jokalariaren taldearentzat
+
+**Erantzuna:** b)
+**Azalpena:** Epaileak jokoa **faltarik gabe** geldiarazten duenean (jokalari bat min hartuta, beste baloi bat zelaian sartzen da, baloia hausten da...), jokoa **bote neutroarekin** berrabiarazten da: epaileak baloia lurrera uzten du.
+
+---
+
+**1.13. Bote neutroan, nori uzten dio epaileak baloia?**
+
+- a) Baloia azken aldiz ukitu zuen taldeko jokalari bati
+- b) Talde bakoitzeko jokalari bati eta baloiaren alde borrokatzen dira
+- d) Beti kapitainari
+
+**Erantzuna:** a)
+**Azalpena:** Baloia **azken aldiz ukitu zuen taldeko** jokalari bati uzten zaio. Ez dago borrokarik: beste jokalariek urrun egon behar dute. Salbuespen bakarra area handia da: han, baloia atezainari uzten zaio.
+
+---
+
+**1.14. Bote neutroan, zein distantziatara egon behar dute beste jokalariek?**
+
+- a) Metro batera
+- b) Gutxienez 4 metrora
+- d) Gutxienez 9 metrora
+
+**Erantzuna:** b)
+**Azalpena:** Beste jokalari guztiek, bi taldeetakoek, gutxienez **4 metrora** egon behar dute, baloiak **lurra ukitu** arte. Une horretan dago baloia jokoan.
+
+---
+
+**1.15. Gure txapelketan, nola jotzen du epaileak txistu lehen edo bigarren zatia amaitzeko?**
+
+- a) Txistu labur bat
+- b) Bi txistu
+- d) Hiru txistu, azkena luzeagoa
+
+**Erantzuna:** b)
+**Azalpena:** Ohituraz, 1. eta 2. zatien amaieran epaileak **bi txistu** jotzen ditu, atsedenaldia hasten dela adierazteko. Futbolaren arauek ez dute zehazten zenbat aldiz jo behar den txistu: epaile gehienek erabiltzen duten ohitura da.
+
+---
+
+**1.16. Zati bat hastean edo gol baten ondoren, nola jotzen du epaileak txistu hasierako sakea egiteko?**
+
+- a) Txistu luze eta indartsu bat
+- b) Hiru txistu
+- d) Txistu labur bat
+
+**Erantzuna:** d)
+**Azalpena:** Hasierako sakea egiteko, epaileak **txistu labur bat** jotzen du, jokalari guztiak beren zelai erdian daudenean. Hau ere ohitura da, ez arau idatzia.
+
 ### 🔴 Zaila
 
-**1.10. Epaileak beso bat gora jasota mantentzen du jaurtiketa libre bat jaurtitzean. Zer adierazten du?**
+**1.17. Epaileak beso bat gora jasota mantentzen du jaurtiketa libre bat jaurtitzean. Zer adierazten du?**
 
 - a) Jaurtiketa libre zuzena dela
 - b) Zeharkako jaurtiketa librea dela
@@ -137,7 +215,7 @@ Baloia argi eta garbi kanpora ateratzen denean (banda-sakea, ate-sakea, kornerra
 
 ---
 
-**1.11. Baloiak epailea jotzen du eta zuzenean atean sartzen da. Gola da?**
+**1.18. Baloiak epailea jotzen du eta zuzenean atean sartzen da. Gola da?**
 
 - a) Ez, epaileak jokoa geldiarazi eta baloia lurrera uzten du (bote neutroa)
 - b) Bai, beti
@@ -148,7 +226,7 @@ Baloia argi eta garbi kanpora ateratzen denean (banda-sakea, ate-sakea, kornerra
 
 ---
 
-**1.12. Zeharkako jaurtiketa libre bat zuzenean aurkariaren atean sartzen da, inork ukitu gabe. Zer erabakitzen du epaileak?**
+**1.19. Zeharkako jaurtiketa libre bat zuzenean aurkariaren atean sartzen da, inork ukitu gabe. Zer erabakitzen du epaileak?**
 
 - a) Ate-sakea aurkako taldearentzat
 - b) Gola
@@ -159,29 +237,29 @@ Baloia argi eta garbi kanpora ateratzen denean (banda-sakea, ate-sakea, kornerra
 
 ---
 
-**1.13. Partida batean, bi taldeek 9 gol baino gehiago sartu dituzte, eta batek besteak baino gehiago sartu ditu. Zein da emaitza ofiziala?**
+**1.20. Partida batean, bi taldeek 9 gol baino gehiago sartu dituzte, eta batek besteak baino gehiago sartu ditu. Zein da emaitza ofiziala?**
 
 - a) 9-9
-- b) 10-9
-- d) Benetan sartu diren golak
+- b) Benetan sartu diren golak
+- d) 10-9
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Bi taldeek 9 gol baino gehiago sartzen badituzte, irabazleari **10** jartzen zaizkio eta galtzaileari **9**. Berdinketa badago, emaitza **9-9** da.
 
 ---
 
-**1.14. Jokalari batek bi txartel hori jaso ditu partida batean. Gure txapelketan, hurrengo partidan jokatu dezake?**
+**1.21. Jokalari batek bi txartel hori jaso ditu partida batean. Gure txapelketan, hurrengo partidan jokatu dezake?**
 
-- a) Bai
+- a) Bakarrik hirugarren zatian
 - b) Ez, hurrengo partida zigortuta dago
-- d) Bakarrik hirugarren zatian
+- d) Bai
 
-**Erantzuna:** a)
+**Erantzuna:** d)
 **Azalpena:** Bi txartel hori jasoz gero, txartel gorria da: jokalariak ezin du partida horretan jokatzen jarraitu, eta taldeak ezin du ordezkatu. Hala ere, txapelketako **hurrengo partidan jokatu dezake**.
 
 ---
 
-**1.15. Jokalari batek txartel gorri zuzena jaso du. Gure txapelketan, hurrengo partidan jokatu dezake?**
+**1.22. Jokalari batek txartel gorri zuzena jaso du. Gure txapelketan, hurrengo partidan jokatu dezake?**
 
 - a) Bai
 - b) Ez, txapelketako hurrengo partidan ezin du parte hartu
@@ -192,7 +270,7 @@ Baloia argi eta garbi kanpora ateratzen denean (banda-sakea, ate-sakea, kornerra
 
 ---
 
-**1.16. Jokalari batek txartel hori bat du jada eta falta oso larria egiten du. Zer atera diezaioke epaileak?**
+**1.23. Jokalari batek txartel hori bat du jada eta falta oso larria egiten du. Zer atera diezaioke epaileak?**
 
 - a) Txartel gorri zuzena
 - b) Bigarren horia bakarrik, horia duenari ezin zaio gorri zuzenik atera
@@ -203,7 +281,7 @@ Baloia argi eta garbi kanpora ateratzen denean (banda-sakea, ate-sakea, kornerra
 
 ---
 
-**1.17. Baloiak epailea ukitzen du eta, ondoren, alboko marratik kanpora ateratzen da. Zer gertatzen da?**
+**1.24. Baloiak epailea ukitzen du eta, ondoren, alboko marratik kanpora ateratzen da. Zer gertatzen da?**
 
 - a) Bote neutroa, epaileak ukitu duelako
 - b) Banda-sakea, epailearen aurretik baloia azken aldiz ukitu ez zuen taldearentzat
@@ -214,19 +292,19 @@ Baloia argi eta garbi kanpora ateratzen denean (banda-sakea, ate-sakea, kornerra
 
 ---
 
-**1.18. Erasoko jokalari batek baloia jotzen du, baloiak epailea ukitzen du eta ate-marratik kanpora ateratzen da, atean sartu gabe. Zer gertatzen da?**
+**1.25. Erasoko jokalari batek baloia jotzen du, baloiak epailea ukitzen du eta ate-marratik kanpora ateratzen da, atean sartu gabe. Zer gertatzen da?**
 
 - a) Bote neutroa, epaileak ukitu duelako
-- b) Ate-sakea defentsako taldearentzat
-- d) Kornerra erasoko taldearentzat
+- b) Kornerra erasoko taldearentzat
+- d) Ate-sakea defentsako taldearentzat
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Epailea **ez da jokalaria**: ez da kontuan hartzen nork ukitu zuen baloia azken aldiz erabakitzeko. 
 Epailearen aurretik baloia azken aldiz **erasoko jokalari** batek ukitu zuenez, **ate-sakea** da, baloiak epailea ukitu ez balu bezala.
 
 ---
 
-**1.19. Defentsako jokalari batek baloia jotzen du, baloiak epailea ukitzen du eta bere ate-marratik kanpora ateratzen da, atean sartu gabe. Zer gertatzen da?**
+**1.26. Defentsako jokalari batek baloia jotzen du, baloiak epailea ukitzen du eta bere ate-marratik kanpora ateratzen da, atean sartu gabe. Zer gertatzen da?**
 
 - a) Kornerra erasoko taldearentzat
 - b) Ate-sakea defentsako taldearentzat
@@ -238,19 +316,19 @@ Kontuz! Epailea ukitu ondoren baloia **zuzenean atean sartzen bada**, ez da gola
 
 ---
 
-**1.20. Talde batek baloia du. Baloiak epailea jotzen du eta aurkako jokalari batek hartzen du. Zer egin behar du epaileak?**
+**1.27. Talde batek baloia du. Baloiak epailea jotzen du eta aurkako jokalari batek hartzen du. Zer egin behar du epaileak?**
 
-- a) Jokoa geldiarazi eta bote neutroa egin baloia galdu duen taldearentzat
+- a) Zeharkako jaurtiketa librea baloia galdu duen taldearentzat
 - b) Jokoa jarraitzen utzi, epailea zelaiaren parte delako
-- d) Zeharkako jaurtiketa librea baloia galdu duen taldearentzat
+- d) Jokoa geldiarazi eta bote neutroa egin baloia galdu duen taldearentzat
 
-**Erantzuna:** a)
+**Erantzuna:** d)
 **Azalpena:** Baloiak epailea ukitu eta **baloiaren jabetza taldez aldatzen bada**, epaileak jokoa geldiarazten du.
 Ez da bidezkoa epaileak talde bati mesede egitea. Jokoa **bote neutroarekin** berrabiarazten da, baloia galdu duen taldeko jokalari bati baloia utzita.
 
 ---
 
-**1.21. Baloiak epailea ukitzen du. Talde berak jarraitzen du baloiarekin, baina eraso arriskutsu bat hasten da. Zer egiten du epaileak?**
+**1.28. Baloiak epailea ukitzen du. Talde berak jarraitzen du baloiarekin, baina eraso arriskutsu bat hasten da. Zer egiten du epaileak?**
 
 - a) Jokoa geldiarazi eta bote neutroa egin
 - b) Jokoa jarraitzen utzi, talde berak baitu baloia
@@ -261,7 +339,7 @@ Ez da bidezkoa epaileak talde bati mesede egitea. Jokoa **bote neutroarekin** be
 
 ---
 
-**1.22. Baloiak epailea ukitzen du, baina talde berak jarraitzen du baloiarekin eta ez da eraso arriskutsurik sortzen. Zer gertatzen da?**
+**1.29. Baloiak epailea ukitzen du, baina talde berak jarraitzen du baloiarekin eta ez da eraso arriskutsurik sortzen. Zer gertatzen da?**
 
 - a) Jokoak jarraitzen du, ezer gertatu ez balitz bezala
 - b) Epaileak jokoa geldiarazi eta bote neutroa egiten du, beti
@@ -277,29 +355,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**1.23. Epaileak jokoa geldiarazten du jokalari bat min hartuta dagoelako, faltarik egon gabe. Nola berrabiarazten da jokoa?**
-
-- a) Banda-sakearekin, jokoa gelditu zenean baloia ez zuen taldearentzat
-- b) Bote neutroarekin: epaileak baloia lurrera uzten du
-- d) Zeharkako jaurtiketa librearekin, min hartu duen jokalariaren taldearentzat
-
-**Erantzuna:** b)
-**Azalpena:** Epaileak jokoa **faltarik gabe** geldiarazten duenean (jokalari bat min hartuta, beste baloi bat zelaian sartzen da, baloia hausten da...), jokoa **bote neutroarekin** berrabiarazten da: epaileak baloia lurrera uzten du.
-
----
-
-**1.24. Bote neutroan, nori uzten dio epaileak baloia?**
-
-- a) Baloia azken aldiz ukitu zuen taldeko jokalari bati
-- b) Talde bakoitzeko jokalari bati eta baloiaren alde borrokatzen dira
-- d) Beti kapitainari
-
-**Erantzuna:** a)
-**Azalpena:** Baloia **azken aldiz ukitu zuen taldeko** jokalari bati uzten zaio. Ez dago borrokarik: beste jokalariek urrun egon behar dute. Salbuespen bakarra area handia da: han, baloia atezainari uzten zaio.
-
----
-
-**1.25. Nondik egiten da bote neutroa?**
+**1.30. Nondik egiten da bote neutroa?**
 
 - a) Beti zelai erditik
 - b) Baloia azken aldiz ukitu zen lekutik
@@ -310,7 +366,7 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**1.26. Jokoa gelditu zenean, baloia area handiaren barruan zegoen. Nori uzten zaio baloia bote neutroan?**
+**1.31. Jokoa gelditu zenean, baloia area handiaren barruan zegoen. Nori uzten zaio baloia bote neutroan?**
 
 - a) Area horretako atezainari
 - b) Baloia azken aldiz ukitu zuen taldeko jokalari bati
@@ -321,29 +377,18 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 
 ---
 
-**1.27. Bote neutroan, zein distantziatara egon behar dute beste jokalariek?**
-
-- a) Metro batera
-- b) Gutxienez 4 metrora
-- d) Gutxienez 9 metrora
-
-**Erantzuna:** b)
-**Azalpena:** Beste jokalari guztiek, bi taldeetakoek, gutxienez **4 metrora** egon behar dute, baloiak **lurra ukitu** arte. Une horretan dago baloia jokoan.
-
----
-
-**1.28. Bote neutrotik zuzenean gola sar daiteke?**
+**1.32. Bote neutrotik zuzenean gola sar daiteke?**
 
 - a) Bai, beti
-- b) Ez, baloiak gutxienez bi jokalari ukitu behar ditu lehenago
-- d) Bakarrik atezainak jaurtitzen badu
+- b) Bakarrik atezainak jaurtitzen badu
+- d) Ez, baloiak gutxienez bi jokalari ukitu behar ditu lehenago
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Bote neutroa jokoa berriro hasteko modu bat da, ez gola sartzeko aukera bat. Horregatik, baloiak gutxienez **bi jokalari** ukitu behar ditu gola izateko.
 
 ---
 
-**1.29. Epaileak txistu luze eta indartsua jotzen du jokoa geldiarazteko. Zer adierazi nahi du, ziurrenik?**
+**1.33. Epaileak txistu luze eta indartsua jotzen du jokoa geldiarazteko. Zer adierazi nahi du, ziurrenik?**
 
 - a) Falta txiki bat izan dela, garrantzirik gabea
 - b) Falta larria izan dela, edo penaltia
@@ -355,51 +400,6 @@ Beste kasu guztietan **jokoak jarraitzen du**. Eta baloia zelaitik kanpo ateratz
 - **Txistu luze eta indartsua:** **falta larriak** (txartela izan dezaketenak), **penaltiak**, edo jokalariak lasaitu behar direnean. Horrela, denek ulertzen dute zerbait garrantzitsua gertatu dela.
 
 Ez da arau idatzia, epaileek erabiltzen duten **ohitura** baizik.
-
----
-
-**1.30. Gure txapelketan, nola jotzen du epaileak txistu lehen edo bigarren zatia amaitzeko?**
-
-- a) Txistu labur bat
-- b) Bi txistu
-- d) Hiru txistu, azkena luzeagoa
-
-**Erantzuna:** b)
-**Azalpena:** Ohituraz, 1. eta 2. zatien amaieran epaileak **bi txistu** jotzen ditu, atsedenaldia hasten dela adierazteko. Futbolaren arauek ez dute zehazten zenbat aldiz jo behar den txistu: epaile gehienek erabiltzen duten ohitura da.
-
----
-
-**1.31. Nola jotzen du epaileak txistu partida amaitzeko?**
-
-- a) Txistu labur bat
-- b) Bi txistu
-- d) Hiru txistu, azkena luzeagoa
-
-**Erantzuna:** d)
-**Azalpena:** Partidaren amaieran (gure txapelketan, 3. zatiaren amaieran), epaileak **hiru txistu** jotzen ditu, eta azkena luzeagoa da. Horrela, denek dakite partida bukatu dela. Hau ere ohitura da, ez arau idatzia.
-
----
-
-**1.32. Nola jotzen du epaileak txistu gola izan dela adierazteko?**
-
-- a) Txistu bakar bat, luzea eta indartsua, eta zelai erdira seinalatzen du besoarekin
-- b) Hiru txistu labur, eta ate-sakea seinalatzen du
-- d) Ez du txistu jotzen, atezainak baloia hartu arte itxaroten du
-
-**Erantzuna:** a)
-**Azalpena:** Gola izan denean, epaileak **txistu bakar bat** jotzen du, **luzea eta indartsua**, denek argi entzun eta jokoa gelditu dadin. Gero besoarekin **zelai erdira** (erdiko zirkulura) seinalatzen du, hor egingo baita hasierako sakea.
-Ez da arau idatzia, epaileek erabiltzen duten **ohitura** baizik. Gola oso argia bada, batzuetan nahikoa da zelai erdira seinalatzea.
-
----
-
-**1.33. Zati bat hastean edo gol baten ondoren, nola jotzen du epaileak txistu hasierako sakea egiteko?**
-
-- a) Txistu labur bat
-- b) Hiru txistu
-- d) Txistu luze eta indartsu bat
-
-**Erantzuna:** a)
-**Azalpena:** Hasierako sakea egiteko, epaileak **txistu labur bat** jotzen du, jokalari guztiak beren zelai erdian daudenean. Hau ere ohitura da, ez arau idatzia.
 
 ---
 
@@ -454,10 +454,10 @@ Ez da arau idatzia, epaileek erabiltzen duten **ohitura** baizik. Gola oso argia
 **2.5. Ate-sake bat egiten denean, aurkariak areara sar daitezke baloia jokoan egon baino lehen?**
 
 - a) Bai
-- b) Ez, area kanpoan egon behar dute baloia jokoan egon arte
-- d) Bakarrik aurrelariak
+- b) Bakarrik aurrelariak
+- d) Ez, area kanpoan egon behar dute baloia jokoan egon arte
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Ate-sakea lasai ateratzeko, aurkariek area handitik kanpo itxaron behar dute baloia jo eta mugitu arte.
 
 ---
@@ -508,11 +508,11 @@ Ez da arau idatzia, epaileek erabiltzen duten **ohitura** baizik. Gola oso argia
 
 **2.10. Atezainak baloia eskuetatik askatzen du lurrera eta, beste inork ukitu gabe, berriro eskuekin hartzen du. Zer gertatzen da?**
 
-- a) Ezer ez
-- b) Zeharkako jaurtiketa librea aurkariarentzat
+- a) Zeharkako jaurtiketa librea aurkariarentzat
+- b) Ezer ez
 - d) Penaltia
 
-**Erantzuna:** b)
+**Erantzuna:** a)
 **Azalpena:** Baloia jokoan jarri ondoren, atezainak ezin du berriro eskuekin hartu beste jokalari batek ukitu arte.
 
 ---
@@ -520,10 +520,10 @@ Ez da arau idatzia, epaileek erabiltzen duten **ohitura** baizik. Gola oso argia
 **2.11. Atezainak baloia eskuetan du eta aurrelari bat bere aurrean jartzen da, baloia botatzen utzi gabe. Zer erabakitzen du epaileak?**
 
 - a) Ezer ez, aurrelariak baloia lapurtu dezake
-- b) Zeharkako jaurtiketa librea atezainaren taldearentzat
-- d) Penaltia atezainaren taldearentzat
+- b) Penaltia atezainaren taldearentzat
+- d) Zeharkako jaurtiketa librea atezainaren taldearentzat
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Atezainak eskuekin hartzen duen baloia lasai atera behar du. Aurkari batek hori eragozten badio, zeharkako falta da.
 
 ---
@@ -579,10 +579,10 @@ Ez da arau idatzia, epaileek erabiltzen duten **ohitura** baizik. Gola oso argia
 **3.5. Zer da penaltia?**
 
 - a) Erdiko zirkulutik egiten den jaurtiketa
-- b) Penalti-puntutik egiten den jaurtiketa, jaurtitzailea eta atezaina aurrez aurre daudela
-- d) Izkinatik egiten den jaurtiketa
+- b) Izkinatik egiten den jaurtiketa
+- d) Penalti-puntutik egiten den jaurtiketa, jaurtitzailea eta atezaina aurrez aurre daudela
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Penaltia jokoan dagoen **zigorrik handiena** da. Baloia **penalti-puntuan** jartzen da, geldirik, eta **jaurtitzailea eta atezaina** bakarrik daude aurrez aurre. 
 Ezin da beste inor egon area handiaren barruan.
 
@@ -609,9 +609,20 @@ Area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **g
 **Erantzuna:** a)
 **Azalpena:** Penaltia jaurtiketa **zuzena** da: jaurtitzaileak zuzenean sar dezake gola, beste inork ukitu gabe.
 
+---
+
+**3.8. Nola ezagutzen da zelaian taldeko kapitaina?**
+
+- a) Besokoa darama
+- b) Beste kolore bateko kamiseta darama
+- d) Txapela darama
+
+**Erantzuna:** a)
+**Azalpena:** Kapitainak **besokoa** eraman behar du, epaileak eta denek erraz ezagutzeko. Beste kolore bateko kamiseta atezainak darama, ez kapitainak.
+
 ### 🟡 Ertaina
 
-**3.8. Nola egin behar da banda-sakea ondo?**
+**3.9. Nola egin behar da banda-sakea ondo?**
 
 - a) Bi eskuekin, baloia buruaren atzetik eta gainetik botaz, bi oinak lurrean dituela
 - b) Esku batekin, korrika eginez
@@ -622,7 +633,7 @@ Area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **g
 
 ---
 
-**3.9. Baloia ate-marratik kanpora ateratzen da, atean sartu gabe. Azkena defentsako jokalari batek ukitu du. Nola berrabiarazten da jokoa?**
+**3.10. Baloia ate-marratik kanpora ateratzen da, atean sartu gabe. Azkena defentsako jokalari batek ukitu du. Nola berrabiarazten da jokoa?**
 
 - a) Kornerrarekin, erasoko taldearentzat
 - b) Banda-sakearekin
@@ -633,18 +644,18 @@ Area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **g
 
 ---
 
-**3.10. Baloia ate-marratik kanpora ateratzen da, atean sartu gabe. Azkena erasoko jokalari batek ukitu du. Nola berrabiarazten da jokoa?**
+**3.11. Baloia ate-marratik kanpora ateratzen da, atean sartu gabe. Azkena erasoko jokalari batek ukitu du. Nola berrabiarazten da jokoa?**
 
 - a) Kornerrarekin
-- b) Ate-sakearekin, defentsako taldearentzat
-- d) Banda-sakearekin
+- b) Banda-sakearekin
+- d) Ate-sakearekin, defentsako taldearentzat
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Erasoko taldeak baloia aurkariaren ate-marratik kanpo ateratzen badu, gola izan gabe, defentsako taldeak **ate-sakea** egiten du.
 
 ---
 
-**3.11. Gure arauaren arabera, nola egiten da hasierako sakea?**
+**3.12. Gure arauaren arabera, nola egiten da hasierako sakea?**
 
 - a) Baloia zuzenean aurkariaren atera jaurtiz
 - b) Baloia atzerantz pasatuz lagun bati, zeharkako jaurtiketa libre bat bezala
@@ -655,7 +666,7 @@ Area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **g
 
 ---
 
-**3.12. Gol bat sartu ondoren, zein taldek egiten du hasierako sakea?**
+**3.13. Gol bat sartu ondoren, zein taldek egiten du hasierako sakea?**
 
 - a) Gola jaso duen taldeak
 - b) Gola sartu duen taldeak
@@ -666,7 +677,7 @@ Area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **g
 
 ---
 
-**3.13. Bi taldeek kolore bereko kamiseta dute. Zein taldek aldatu behar du?**
+**3.14. Bi taldeek kolore bereko kamiseta dute. Zein taldek aldatu behar du?**
 
 - a) Etxeko taldeak
 - b) Partida irabazten ari ez denak
@@ -677,7 +688,7 @@ Area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **g
 
 ---
 
-**3.14. Nork aukeratzen du taldeko kapitaina?**
+**3.15. Nork aukeratzen du taldeko kapitaina?**
 
 - a) Epaileak
 - b) Entrenatzaileak, partida hasi aurretik
@@ -688,29 +699,86 @@ Area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **g
 
 ---
 
-**3.15. Nola ezagutzen da zelaian taldeko kapitaina?**
+**3.16. Partida hasi aurretik, zertan parte hartzen du kapitainak?**
 
-- a) Besokoa darama
-- b) Beste kolore bateko kamiseta darama
-- d) Txapela darama
+- a) Ezertan ez
+- b) Aldaketak erabakitzen, entrenatzailearen ordez
+- d) Txanpon-zozketan, epailearekin eta aurkako kapitainarekin
 
-**Erantzuna:** a)
-**Azalpena:** Kapitainak **besokoa** eraman behar du, epaileak eta denek erraz ezagutzeko. Beste kolore bateko kamiseta atezainak darama, ez kapitainak.
+**Erantzuna:** d)
+**Azalpena:** Partida hasi aurretik, bi kapitainek eta epaileak **txanpon-zozketa** egiten dute.
 
 ---
 
-**3.16. Partida hasi aurretik, zertan parte hartzen du kapitainak?**
+**3.17. Zein faltagatik ematen da jaurtiketa libre zuzena?**
 
-- a) Txanpon-zozketan, epailearekin eta aurkako kapitainarekin
-- b) Aldaketak erabakitzen, entrenatzailearen ordez
-- d) Ezertan ez
+- a) Aurkaria bultzatzeagatik edo zangotrabatzeagatik
+- b) Jokoz kanpo egoteagatik
+- d) Atezainak baloia 6 segundo baino gehiago edukitzeagatik
 
 **Erantzuna:** a)
-**Azalpena:** Partida hasi aurretik, bi kapitainek eta epaileak **txanpon-zozketa** egiten dute.
+**Azalpena:** Jaurtiketa libre **zuzena** falta "gogorrengatik" ematen da: ostikoa eman edo ematen saiatu, zangotrabatu, gainera salto egin, bortizki kargatu, jo, bultzatu, baloiaren aurretik aurkaria ukitu, nahita eskuz jokatu, heldu edo listua bota.
+
+---
+
+**3.18. Kapitainak epaileari protesta egiteko eskubide berezia du?**
+
+- a) Bai, kapitaina delako
+- b) Bai, baina lehen zatian bakarrik
+- d) Ez. Azalpenak eska diezazkioke, beti lasai eta errespetuz
+
+**Erantzuna:** d)
+**Azalpena:** Kapitainak ez du **pribilegiorik**. Epaileari azalpenak eska diezazkioke, beti **lasai eta errespetuz**, baina ez du protesta egiteko eskubide berezirik. Gaizki jokatzen badu, epaileak txartela atera diezaioke, beste edozein jokalariri bezala.
+Gainera, bere lagunak lasaitzen eta **joko garbia** sustatzen lagundu behar du: lehenengo eredua izan behar du!
+
+---
+
+**3.19. Falta bat egin da eta epaileak jaurtiketa librea adierazi du. Nondik jaurti behar da, normalean?**
+
+- a) Beti zelai erditik
+- b) Falta egin den lekutik
+- d) Baloia zegoen lekutik, falta non egin den kontuan hartu gabe
+
+**Erantzuna:** b)
+**Azalpena:** Jaurtiketa librea (zuzena zein zeharkakoa) **falta egin den lekutik** eta **oinarekin** jaurtitzen da, baloia **geldirik** dagoela. Ez du axola une horretan baloia non zegoen.
+Badaude kasu berezi batzuk: area txikian eta zelaitik kanpo egindako faltak. Eta defentsak bere area handian falta zuzena egiten badu, ez da jaurtiketa librea, **penaltia** baizik.
+
+---
+
+**3.20. Penaltian, noiz jo dezake jaurtitzaileak baloia?**
+
+- a) Epaileak txistu jotzen duenean
+- b) Atezaina prest dagoela ikusten duenean
+- d) Nahi duenean
+
+**Erantzuna:** a)
+**Azalpena:** Jaurtitzaileak epaileak **txistu** jo arte itxaron behar du, eta baloia **aurrera** jo behar du. Baloia jo ondoren, jokalari guztiak sar daitezke areara.
+
+---
+
+**3.21. Jaurtitzaileak epaileari hesia eskatu dio. Jaurtiketa azkarra egin dezake?**
+
+- a) Bai, nahi duenean
+- b) Ez, epaileak txistu jo arte itxaron behar du
+- d) Bai, hesia jarri baino lehen
+
+**Erantzuna:** b)
+**Azalpena:** Hesia eskatzen bada, epaileak distantzia neurtzen du (6 metro), eta jaurtitzaileak ezin du jaurti epaileak **txistu** jo arte.
+
+---
+
+**3.22. Aurkari bat nahita jartzen da baloiaren aurrean, jaurtiketa azkarra eragozteko. Zer egin dezake epaileak?**
+
+- a) Ezer ez
+- b) Txartel horia atera
+- d) Penaltia eman
+
+**Erantzuna:** b)
+**Azalpena:** Aurkari bat baloiaren aurrean jartzen bada edo baloia eramaten badu, jaurtiketa azkarra **nahita oztopatzeko**, epaileak **txartel horia** atera diezaioke.
 
 ### 🔴 Zaila
 
-**3.17. Lagunak pasea ematen dion unean, erasotzaileak gutxienez zenbat aurkari izan behar ditu aurrean edo parean, jokoz kanpo ez egoteko?**
+**3.23. Lagunak pasea ematen dion unean, erasotzaileak gutxienez zenbat aurkari izan behar ditu aurrean edo parean, jokoz kanpo ez egoteko?**
 
 - a) Bat (atezaina)
 - b) Bi (normalean atezaina eta beste bat)
@@ -722,18 +790,18 @@ Area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **g
 
 ---
 
-**3.18. Jokalari bat jokoz kanpo egon da. Zer jaurtitzen du aurkako taldeak?**
+**3.24. Jokalari bat jokoz kanpo egon da. Zer jaurtitzen du aurkako taldeak?**
 
 - a) Penaltia
-- b) Zeharkako jaurtiketa librea, jokoz kanpo egon den lekutik
-- d) Jaurtiketa libre zuzena, zelai erditik
+- b) Jaurtiketa libre zuzena, zelai erditik
+- d) Zeharkako jaurtiketa librea, jokoz kanpo egon den lekutik
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Jokoz kanpoa **zeharkako** falta da. Aurkako taldeak zeharkako jaurtiketa librea jaurtitzen du, jokalaria jokoz kanpo egon den lekutik.
 
 ---
 
-**3.19. Zein sakeetan EZ dago jokoz kanporik?**
+**3.25. Zein sakeetan EZ dago jokoz kanporik?**
 
 - a) Jaurtiketa libreetan
 - b) Ez dago salbuespenik
@@ -744,7 +812,7 @@ Area handian atetik oso gertu gaude, eta bertan egindako falta batek askotan **g
 
 ---
 
-**3.20. Zer da joko arriskutsua?**
+**3.26. Zer da joko arriskutsua?**
 
 - a) Oso azkar korrika egitea
 - b) Atezainari jaurtiketa gogorra egitea (baloikada)
@@ -760,7 +828,7 @@ Jokalaria ukitzen badu (ostikoa, bultzada...), falta **zuzena** da, eta txartela
 
 ---
 
-**3.21. Zein da jaurtiketa libre zuzenaren eta zeharkakoaren arteko desberdintasuna?**
+**3.27. Zein da jaurtiketa libre zuzenaren eta zeharkakoaren arteko desberdintasuna?**
 
 - a) Ez dago desberdintasunik
 - b) Zuzenean gola sar daiteke zuzenarekin. Zeharkakoan, beste jokalari batek ukitu behar du baloia gola izateko
@@ -773,29 +841,18 @@ Jokalaria ukitzen badu (ostikoa, bultzada...), falta **zuzena** da, eta txartela
 
 ---
 
-**3.22. Zein faltagatik ematen da jaurtiketa libre zuzena?**
-
-- a) Aurkaria bultzatzeagatik edo zangotrabatzeagatik
-- b) Jokoz kanpo egoteagatik
-- d) Atezainak baloia 6 segundo baino gehiago edukitzeagatik
-
-**Erantzuna:** a)
-**Azalpena:** Jaurtiketa libre **zuzena** falta "gogorrengatik" ematen da: ostikoa eman edo ematen saiatu, zangotrabatu, gainera salto egin, bortizki kargatu, jo, bultzatu, baloiaren aurretik aurkaria ukitu, nahita eskuz jokatu, heldu edo listua bota.
-
----
-
-**3.23. Zein faltagatik ematen da zeharkako jaurtiketa librea?**
+**3.28. Zein faltagatik ematen da zeharkako jaurtiketa librea?**
 
 - a) Aurkariari ostikoa emateagatik
-- b) Aurkariaren bidea oztopatzeagatik, ukitu gabe
-- d) Baloia nahita eskuz jokatzeagatik
+- b) Baloia nahita eskuz jokatzeagatik
+- d) Aurkariaren bidea oztopatzeagatik, ukitu gabe
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** **Zeharkako** jaurtiketa librea beste falta batzuengatik ematen da: jokoz kanpo, joko arriskutsua, aurkariaren bidea oztopatu, atezainari baloia ateratzen ez utzi, eta atezainaren faltak (6 segundo, lagapena...).
 
 ---
 
-**3.24. Defentsako jokalari batek aurkari bat bultzatzen du bere area handiaren barruan, baloia urrun dagoenean. Zer gertatzen da?**
+**3.29. Defentsako jokalari batek aurkari bat bultzatzen du bere area handiaren barruan, baloia urrun dagoenean. Zer gertatzen da?**
 
 - a) Penaltia
 - b) Ezer ez, baloia urrun zegoelako
@@ -806,7 +863,7 @@ Jokalaria ukitzen badu (ostikoa, bultzada...), falta **zuzena** da, eta txartela
 
 ---
 
-**3.25. Defentsako jokalari batek joko arriskutsua egiten du bere area handiaren barruan, aurkaria ukitu gabe. Penaltia da?**
+**3.30. Defentsako jokalari batek joko arriskutsua egiten du bere area handiaren barruan, aurkaria ukitu gabe. Penaltia da?**
 
 - a) Bai, area barruan delako
 - b) Ez, zeharkako jaurtiketa librea da
@@ -817,7 +874,7 @@ Jokalaria ukitzen badu (ostikoa, bultzada...), falta **zuzena** da, eta txartela
 
 ---
 
-**3.26. Jaurtiketa libre zuzen bat jaurtitzen da eta baloia zuzenean jaurtitzailearen talde beraren atean sartzen da. Zer erabakitzen du epaileak?**
+**3.31. Jaurtiketa libre zuzen bat jaurtitzen da eta baloia zuzenean jaurtitzailearen talde beraren atean sartzen da. Zer erabakitzen du epaileak?**
 
 - a) Gola aurkariarentzat
 - b) Kornerra aurkako taldearentzat
@@ -829,31 +886,7 @@ Arau honek saiesten ditu jokoa berrabiarazterakoan gertatutako akatsak. Gauza be
 
 ---
 
-**3.27. Kapitainak epaileari protesta egiteko eskubide berezia du?**
-
-- a) Bai, kapitaina delako
-- b) Ez. Azalpenak eska diezazkioke, beti lasai eta errespetuz
-- d) Bai, baina lehen zatian bakarrik
-
-**Erantzuna:** b)
-**Azalpena:** Kapitainak ez du **pribilegiorik**. Epaileari azalpenak eska diezazkioke, beti **lasai eta errespetuz**, baina ez du protesta egiteko eskubide berezirik. Gaizki jokatzen badu, epaileak txartela atera diezaioke, beste edozein jokalariri bezala.
-Gainera, bere lagunak lasaitzen eta **joko garbia** sustatzen lagundu behar du: lehenengo eredua izan behar du!
-
----
-
-**3.28. Falta bat egin da eta epaileak jaurtiketa librea adierazi du. Nondik jaurti behar da, normalean?**
-
-- a) Beti zelai erditik
-- b) Falta egin den lekutik
-- d) Baloia zegoen lekutik, falta non egin den kontuan hartu gabe
-
-**Erantzuna:** b)
-**Azalpena:** Jaurtiketa librea (zuzena zein zeharkakoa) **falta egin den lekutik** eta **oinarekin** jaurtitzen da, baloia **geldirik** dagoela. Ez du axola une horretan baloia non zegoen.
-Badaude kasu berezi batzuk: area txikian eta zelaitik kanpo egindako faltak. Eta defentsak bere area handian falta zuzena egiten badu, ez da jaurtiketa librea, **penaltia** baizik.
-
----
-
-**3.29. Defentsako taldeak jaurtiketa librea du bere area txikiaren barruan. Nondik jaurti dezake?**
+**3.32. Defentsako taldeak jaurtiketa librea du bere area txikiaren barruan. Nondik jaurti dezake?**
 
 - a) Area txikiaren barruko edozein lekutatik
 - b) Falta egin den puntu zehatzetik bakarrik
@@ -864,7 +897,7 @@ Badaude kasu berezi batzuk: area txikian eta zelaitik kanpo egindako faltak. Eta
 
 ---
 
-**3.30. Erasoko taldeak zeharkako jaurtiketa librea du aurkariaren area txikiaren barruan. Non jartzen da baloia?**
+**3.33. Erasoko taldeak zeharkako jaurtiketa librea du aurkariaren area txikiaren barruan. Non jartzen da baloia?**
 
 - a) Falta egin den lekuan, atetik oso gertu
 - b) Area txikiaren marran, faltatik hurbilen dagoen puntuan
@@ -875,7 +908,7 @@ Badaude kasu berezi batzuk: area txikian eta zelaitik kanpo egindako faltak. Eta
 
 ---
 
-**3.31. Baloia jokoan dagoela, jokalari batek falta egiten du zelaitik kanpo. Nondik jaurtitzen da jaurtiketa librea?**
+**3.34. Baloia jokoan dagoela, jokalari batek falta egiten du zelaitik kanpo. Nondik jaurtitzen da jaurtiketa librea?**
 
 - a) Muga-marrako punturik hurbilenetik
 - b) Zelai erditik
@@ -887,7 +920,7 @@ Kontuz! Puntu hori falta egin duenaren area handiaren barruan badago eta falta z
 
 ---
 
-**3.32. Penalti bat jaurtitzean, non egon behar dute jaurtitzailea eta atezaina ez diren jokalariek?**
+**3.35. Penalti bat jaurtitzean, non egon behar dute jaurtitzailea eta atezaina ez diren jokalariek?**
 
 - a) Nahi duten lekuan, area barruan ere bai
 - b) Area handitik kanpo, penalti-puntuaren atzean eta puntu horretatik gutxienez 6 metrora
@@ -901,30 +934,19 @@ Kontuz! Puntu hori falta egin duenaren area handiaren barruan badago eta falta z
 
 ---
 
-**3.33. Penaltian, noiz jo dezake jaurtitzaileak baloia?**
-
-- a) Epaileak txistu jotzen duenean
-- b) Atezaina prest dagoela ikusten duenean
-- d) Nahi duenean
-
-**Erantzuna:** a)
-**Azalpena:** Jaurtitzaileak epaileak **txistu** jo arte itxaron behar du, eta baloia **aurrera** jo behar du. Baloia jo ondoren, jokalari guztiak sar daitezke areara.
-
----
-
-**3.34. Penaltian, baloiak zutoina jotzen du eta jaurtitzailearengana itzultzen da. Berriro jaurti dezake?**
+**3.36. Penaltian, baloiak zutoina jotzen du eta jaurtitzailearengana itzultzen da. Berriro jaurti dezake?**
 
 - a) Bai, berehala
-- b) Ez, beste jokalari batek ukitu arte
-- d) Ez, eta penaltia errepikatu egiten da
+- b) Ez, eta penaltia errepikatu egiten da
+- d) Ez, beste jokalari batek ukitu arte
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Baloiak **zutoina edo langa** jotzen badu eta jaurtitzailearengana itzultzen bada, jaurtitzaileak **ezin du berriro ukitu** beste jokalari batek ukitu arte. 
 Atezainak geldiarazi eta errebotatzen badu, ordea, bai, berriro jaurti dezake.
 
 ---
 
-**3.35. Zer da jaurtiketa azkarra?**
+**3.37. Zer da jaurtiketa azkarra?**
 
 - a) Jaurtiketa librea berehala egitea, epaileak txistu jo eta hesia jarri arte itxaron gabe
 - b) Penaltia ahalik eta indar handienarekin jaurtitzea
@@ -936,7 +958,7 @@ Baloia **geldirik** egon behar du eta **dagokion lekutik** jaurti behar da (norm
 
 ---
 
-**3.36. Jaurtiketa azkar bat egin da, eta 6 metro baino gertuago zegoen aurkari batek baloia hartzen du. Zer gertatzen da?**
+**3.38. Jaurtiketa azkar bat egin da, eta 6 metro baino gertuago zegoen aurkari batek baloia hartzen du. Zer gertatzen da?**
 
 - a) Jokoak jarraitzen du
 - b) Jaurtiketa errepikatu egiten da
@@ -947,37 +969,15 @@ Baloia **geldirik** egon behar du eta **dagokion lekutik** jaurti behar da (norm
 
 ---
 
-**3.37. Jaurtitzaileak epaileari hesia eskatu dio. Jaurtiketa azkarra egin dezake?**
-
-- a) Bai, nahi duenean
-- b) Ez, epaileak txistu jo arte itxaron behar du
-- d) Bai, hesia jarri baino lehen
-
-**Erantzuna:** b)
-**Azalpena:** Hesia eskatzen bada, epaileak distantzia neurtzen du (6 metro), eta jaurtitzaileak ezin du jaurti epaileak **txistu** jo arte.
-
----
-
-**3.38. Epaileak jokoa geldirik mantentzen du txartel bat ateratzeko. Jaurtiketa azkarra egin daiteke?**
+**3.39. Epaileak jokoa geldirik mantentzen du txartel bat ateratzeko. Jaurtiketa azkarra egin daiteke?**
 
 - a) Bai, beti
-- b) Ez, epaileak txistu jo arte itxaron behar da
-- d) Bai, txartela jaso ez duen taldeak
+- b) Bai, txartela jaso ez duen taldeak
+- d) Ez, epaileak txistu jo arte itxaron behar da
 
-**Erantzuna:** b)
+**Erantzuna:** d)
 **Azalpena:** Epaileak jokoa geldirik mantentzen badu (adibidez, **txartel** bat ateratzeko edo jokalari bati min hartuta dagoelako), ezin da jaurtiketa azkarra egin. 
 Txistua entzun arte itxaron behar da.
-
----
-
-**3.39. Aurkari bat nahita jartzen da baloiaren aurrean, jaurtiketa azkarra eragozteko. Zer egin dezake epaileak?**
-
-- a) Ezer ez
-- b) Txartel horia atera
-- d) Penaltia eman
-
-**Erantzuna:** b)
-**Azalpena:** Aurkari bat baloiaren aurrean jartzen bada edo baloia eramaten badu, jaurtiketa azkarra **nahita oztopatzeko**, epaileak **txartel horia** atera diezaioke.
 
 ---
 
@@ -1188,9 +1188,20 @@ Kontuz! Jaurtitzaileak **jaurtiketa azkarra** egin badu, ez da errepikatzen: jok
 **Erantzuna:** b)
 **Azalpena:** Entrenatzailea jokalarien eredua da. Epaileari, aurkariei eta zaleei errespetua erakutsi behar die beti.
 
+---
+
+**5.4. Gure txapelketan, zenbat aldaketa egin daitezke hirugarren zatian?**
+
+- a) Hiru bakarrik
+- b) Nahi adina
+- d) Bat ere ez
+
+**Erantzuna:** b)
+**Azalpena:** Hirugarren zatian aldaketak **hegalariak** (volantes) dira: **mugarik gabe** egin daitezke. Jokalari bat zelaiaren erditik atera eta ondoren beste bat sar daiteke toki beratik.
+
 ### 🟡 Ertaina
 
-**5.4. Gutxienez zenbat jokalarirekin has dezake talde batek partida?**
+**5.5. Gutxienez zenbat jokalarirekin has dezake talde batek partida?**
 
 - a) 8
 - b) 3
@@ -1198,17 +1209,6 @@ Kontuz! Jaurtitzaileak **jaurtiketa azkarra** egin badu, ez da errepikatzen: jok
 
 **Erantzuna:** d)
 **Azalpena:** Talde batek gutxienez **5 jokalarirekin** hasi behar du partida. Gainerakoak geroago sar daitezke, 8 izan arte.
-
----
-
-**5.5. Gure txapelketan, zenbat aldaketa egin daitezke hirugarren zatian?**
-
-- a) Hiru bakarrik
-- b) Bat ere ez
-- d) Nahi adina
-
-**Erantzuna:** d)
-**Azalpena:** Hirugarren zatian aldaketak **hegalariak** (volantes) dira: **mugarik gabe** egin daitezke. Jokalari bat zelaiaren erditik atera eta ondoren beste bat sar daiteke toki beratik.
 
 ---
 
